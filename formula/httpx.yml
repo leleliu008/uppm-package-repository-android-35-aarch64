@@ -1,0 +1,5 @@
+summary: Fast and multi-purpose HTTP toolkit
+webpage: https://github.com/projectdiscovery/httpx
+version: 1.6.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/httpx-1.6.5-android-35-arm64-v8a.release.tar.xz
+bin-sha: 0eeda7efa7fd57f84419e9ab51d75840e2d72e555b22483f324870d16e0a6447

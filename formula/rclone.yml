@@ -1,0 +1,5 @@
+summary: Rsync for cloud storage
+webpage: https://rclone.org/
+version: 1.67.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/rclone-1.67.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: ad54550d94ebf1ce892f7413a7e2d398f7fb1aca4ab9e8c4d94315b8e66b3440

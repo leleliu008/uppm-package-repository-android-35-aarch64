@@ -1,0 +1,5 @@
+summary: Manage your dotfiles across multiple diverse machines, securely
+webpage: https://chezmoi.io/
+version: 2.58.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/chezmoi-2.58.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 342635ad4fe0e397cb99ca303ee26732d78448320feaf7f6c0f464c76b1106bd

@@ -1,0 +1,5 @@
+summary: Library like getopt(3) with a number of enhancements
+webpage: https://github.com/rpm-software-management/popt
+version: 1.19
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/libpopt-1.19-android-35-arm64-v8a.release.tar.xz
+bin-sha: 81b7e404deb56b773739d96bcba5186f103094fdc80a53c54cfac3a143b54474

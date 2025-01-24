@@ -1,0 +1,5 @@
+summary: Command-line tool for manipulating Ogg files
+webpage: https://www.xiph.org/oggz/
+version: 1.1.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/oggz-1.1.1-android-35-arm64-v8a.release.tar.xz
+bin-sha: cf7c263233f6985d9b94bc46995d5947645597c0d4916e06d49c0051f9d1df2d

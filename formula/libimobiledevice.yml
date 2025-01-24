@@ -1,0 +1,5 @@
+summary: A C library to communicate with iOS devices natively
+webpage: https://www.libimobiledevice.org
+version: 1.3.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/libimobiledevice-1.3.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 46bbc5c60ff260498c13c67bae5b2e7c7f0b32345827040eb3bd28c6b522917e

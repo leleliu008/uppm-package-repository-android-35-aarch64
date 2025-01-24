@@ -1,0 +1,5 @@
+summary: XML-based font configuration library
+webpage: https://wiki.freedesktop.org/www/Software/fontconfig
+version: 2.15.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/libfontconfig-2.15.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: ea3fe8d388b840e59e4eadfc3836b648728e94ab484698b34dcf4b495e643f7c

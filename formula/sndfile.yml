@@ -1,0 +1,5 @@
+summary: A set of tools for reading and writing files containing sampled sound (such as MS Windows WAV and the Apple/SGI AIFF format)
+webpage: http://libsndfile.github.io/libsndfile/
+version: 1.2.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/sndfile-1.2.2-android-35-arm64-v8a.release.tar.xz
+bin-sha: 3e1ce378b144d6fd66f469b30e1b25a4872475df0e2caaba5675bf15950845f9

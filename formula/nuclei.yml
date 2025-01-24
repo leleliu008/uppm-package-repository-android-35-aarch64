@@ -1,0 +1,5 @@
+summary: HTTP/DNS scanner configurable via YAML templates
+webpage: https://nuclei.projectdiscovery.io/
+version: 3.3.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/nuclei-3.3.8-android-35-arm64-v8a.release.tar.xz
+bin-sha: 7da1c3b5b00a120c4505d046683ce9e5d67567d5168ec7441c259a2f0c040a18

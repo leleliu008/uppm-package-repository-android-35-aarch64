@@ -1,0 +1,5 @@
+summary: Extremely Fast Compression algorithm
+webpage: http://www.lz4.org/
+version: 1.9.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/liblz4-1.9.4-android-35-arm64-v8a.release.tar.xz
+bin-sha: dfb1d2593b4e8113f55a522c0409c91d206af2e9df0818a0e6f7458bb5754ad8

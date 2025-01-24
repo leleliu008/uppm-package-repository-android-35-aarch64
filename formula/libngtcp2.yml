@@ -1,0 +1,5 @@
+summary: QUIC library written in C
+webpage: https://github.com/ngtcp2/ngtcp2
+version: 2025.01.24
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/libngtcp2-2025.01.24-android-35-arm64-v8a.release.tar.xz
+bin-sha: e531e0e72afccb634eecbb87b8635e23b104524ca41082edad984745fb5958a5

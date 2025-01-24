@@ -1,0 +1,5 @@
+summary: A general purpose, double precision, Celestial Mechanics, Astrometry and Astrodynamics library
+webpage: https://libnova.sourceforge.net/
+version: 0.15.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/libnova-0.15.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: edf6edb816ef22ecc250445a907aaa5ee15954ad058798583a418087dcd49564

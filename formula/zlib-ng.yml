@@ -1,0 +1,5 @@
+summary: Zlib replacement with optimizations for next generation systems
+webpage: https://github.com/zlib-ng/zlib-ng
+version: 2.1.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/zlib-ng-2.1.7-android-35-arm64-v8a.release.tar.xz
+bin-sha: 1f722150680fabca05e3dcdd3591ad5a291f3321d463754b429aeca5f66b01fe

@@ -1,0 +1,5 @@
+summary: Utility for directing compilation
+webpage: https://www.gnu.org/software/make
+version: 4.4.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/gmake-4.4.1-android-35-arm64-v8a.release.tar.xz
+bin-sha: c94c20cea09345ccb482dfd3e6d243986c7555ace2f12eb7edea6dfa2b7fe0f1

@@ -1,0 +1,5 @@
+summary: TIFF library and utilities
+webpage: https://libtiff.gitlab.io/libtiff
+version: 4.6.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/tiff-4.6.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: e83fec84529dcc30e7b1dfc40e78f505dac23defdb4168652c91f94003433c0c

@@ -1,0 +1,5 @@
+summary: Decompressor for lzip files
+webpage: https://www.nongnu.org/lzip/lunzip.html
+version: 1.14
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/lunzip-1.14-android-35-arm64-v8a.release.tar.xz
+bin-sha: 9e2b94eaa637c8dca9222c816e96d9913e13954cbb787e36a09f03403dc4fc4e

@@ -1,0 +1,5 @@
+summary: A command-line tool for benchmarking
+webpage: https://github.com/sharkdp/hyperfine
+version: 1.19.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/hyperfine-1.19.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 8c77c0d9af8aaf0c66ca725ab95853d2e1ee13cd98b408273697740f53d6473a

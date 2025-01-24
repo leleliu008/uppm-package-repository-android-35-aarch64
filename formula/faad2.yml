@@ -1,0 +1,5 @@
+summary: ISO AAC audio decoder
+webpage: https://sourceforge.net/projects/faac/
+version: 2.11.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/faad2-2.11.1-android-35-arm64-v8a.release.tar.xz
+bin-sha: fd6a1d32f44a5b244c56046abab2357bdae36c46aea7af768ec96cc429d47c06

@@ -1,0 +1,5 @@
+summary: Universal Prebuild Package Manager
+webpage: https://github.com/leleliu008/uppm
+version: 0.15.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/uppm-0.15.2-android-35-arm64-v8a.release.tar.xz
+bin-sha: 167e28a5b0e2c51d0c8eb75069cc4cc43c7dd3ccd4087f7c6fe8361556865370

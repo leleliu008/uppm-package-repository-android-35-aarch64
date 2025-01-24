@@ -1,0 +1,5 @@
+summary: Free (GNU) replacement for the Pico text editor
+webpage: https://www.nano-editor.org/
+version: 8.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/nano-8.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 7efa6ab689829fe8b44229a29bd0a39149877939649d557ca63ce474d04521ed

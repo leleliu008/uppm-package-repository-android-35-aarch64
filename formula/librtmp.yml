@@ -1,0 +1,5 @@
+summary: A C library for downloading RTMP streaming media
+webpage: https://rtmpdump.mplayerhq.hu
+version: 2.4.20151223
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/librtmp-2.4.20151223-android-35-arm64-v8a.release.tar.xz
+bin-sha: 80e5c548aba30b601c034d21ecdb5061e4370e4a6e64ad30e3ed920d22479300

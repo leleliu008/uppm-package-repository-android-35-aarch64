@@ -1,0 +1,5 @@
+summary: A go-lang supervisor implementation
+webpage: https://github.com/ochinchina/supervisord
+version: 0.7.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/supervisord-0.7.3-android-35-arm64-v8a.release.tar.xz
+bin-sha: 90e1f502659572df21aa363bbe7fb090d019125faead4489fb79dfc3bad62bd7

@@ -1,0 +1,5 @@
+summary: Command-line client for WebSockets
+webpage: https://github.com/vi/websocat
+version: 1.13.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/websocat-1.13.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 9ca73930ae7d2f6a97d0961c43dd5ef42946dedcedb47cbab9ce172f8785a05b

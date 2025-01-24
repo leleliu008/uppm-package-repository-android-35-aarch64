@@ -1,0 +1,5 @@
+summary: Subdomain discovery tool
+webpage: https://github.com/projectdiscovery/subfinder
+version: 2.6.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/subfinder-2.6.6-android-35-arm64-v8a.release.tar.xz
+bin-sha: 273d12cfc36e94135a31d8c352631eb897c3255a8b166317b69c02064ee9ba53

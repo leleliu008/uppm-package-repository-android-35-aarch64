@@ -1,0 +1,5 @@
+summary: Regular expressions library
+webpage: https://github.com/kkos/oniguruma
+version: 6.9.9
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/oniguruma-6.9.9-android-35-arm64-v8a.release.tar.xz
+bin-sha: bc1e53724d05a974c9b12c48f8eb9fe95f4f3b1de08447da0ab5b8a9bed275b0

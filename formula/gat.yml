@@ -1,0 +1,5 @@
+summary: Cat alternative written in Go
+webpage: https://github.com/koki-develop/gat
+version: 0.17.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/gat-0.17.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 1d0ceb7ea96722b94cd1bc6b4052a257cff9336167c91fb65688ba30a4f79f1e

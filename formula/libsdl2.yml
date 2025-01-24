@@ -1,0 +1,5 @@
+summary: A cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D
+webpage: https://www.libsdl.org/
+version: 2.30.9
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/libsdl2-2.30.9-android-35-arm64-v8a.release.tar.xz
+bin-sha: 3da78c7d4a78d689f9ec88a4035f12510d0aed983cdbdbad0a8508b63ca1baeb

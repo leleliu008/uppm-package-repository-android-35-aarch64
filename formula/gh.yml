@@ -1,0 +1,5 @@
+summary: A command-line interface that brings github.com functionality to your terminal
+webpage: https://github.com/cli/cli
+version: 2.65.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/gh-2.65.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 5b82e0242c39ea3a57d88f02398afbb475e37ae2a6c6cf7146ea74e9a1e2889d

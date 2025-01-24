@@ -1,0 +1,5 @@
+summary: Apply a diff file to an original
+webpage: https://savannah.gnu.org/projects/patch
+version: 2.7.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/patch-2.7.6-android-35-arm64-v8a.release.tar.xz
+bin-sha: 250b2442d6797874699809d7d29dcb8d27395f5dde171595837537afc4b16b28

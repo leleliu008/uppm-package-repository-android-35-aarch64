@@ -1,0 +1,5 @@
+summary: Standalone version of arguments parsing functions from GLIBC
+webpage: https://www.lysator.liu.se/~nisse/misc/
+version: 1.5.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/libargp-1.5.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 3d145a64372476b2425d3fe9b011d35891d5537ebc842fe437824ccd123b749c

@@ -1,0 +1,5 @@
+summary: Zip file manipulation library with minizip 1.x compatibility layer
+webpage: https://github.com/zlib-ng/minizip-ng
+version: 4.0.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/libminizip-ng-4.0.7-android-35-arm64-v8a.release.tar.xz
+bin-sha: b213f24f6b0fe88d840330952e59de8c1ba0845b0b3e08395d720d96321554fa

@@ -1,0 +1,5 @@
+summary: Modernized, complete, self-contained TeX/LaTeX engine
+webpage: https://tectonic-typesetting.github.io/
+version: 0.15.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/tectonic-0.15.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 5c91fe4daad7fa3005dd6e07d72f4e944eff18cd5a476c35e4a615d559e627bf

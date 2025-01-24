@@ -1,0 +1,5 @@
+summary: A modern Git CLI
+webpage: https://github.com/chriswalz/bit
+version: 1.1.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/bit-1.1.2-android-35-arm64-v8a.release.tar.xz
+bin-sha: 08338ffef275961cb5d63fb0ea136a6f1ff8293d72580ec786514b2d8473f9e1

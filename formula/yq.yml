@@ -1,0 +1,5 @@
+summary: A lightweight and portable command-line YAML processor
+webpage: https://mikefarah.gitbook.io/yq
+version: 4.45.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/yq-4.45.1-android-35-arm64-v8a.release.tar.xz
+bin-sha: 46a40a8f144cd846dae18b65bd4c74efdd10891a75c89bdd5b40d3385257f39f
