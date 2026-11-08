@@ -106,9 +106,9 @@ do
           do
               ./ndk-pkg bundle "\$item" .tar.xz
 
-              PACKAGE_SUMMARY="\$(./ndk-pkg info-installed "\$item" summary)"
-              PACKAGE_WEB_URL="\$(./ndk-pkg info-installed "\$item" web-url)"
-              PACKAGE_VERSION="\$(./ndk-pkg info-installed "\$item" version)"
+              PACKAGE_SUMMARY="\$(./ndk-pkg show "\$item" summary)"
+              PACKAGE_WEB_URL="\$(./ndk-pkg show "\$item" web-url)"
+              PACKAGE_VERSION="\$(./ndk-pkg show "\$item" version)"
 
               PACKAGE_NAME="\${item#*/}"
 
@@ -127,7 +127,7 @@ do
           EOF
           done
 
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v6
         with:
           name: \${{ matrix.pkg }}
           path: |
@@ -152,4 +152,4 @@ cat >> .github/workflows/publish.yml <<EOF
 
 EOF
 
-cat >> .github/workflows/publish.yml < foot
+cat foot >> .github/workflows/publish.yml

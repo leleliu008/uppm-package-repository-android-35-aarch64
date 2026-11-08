@@ -9,7 +9,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        pkg: [ARM_NEON_2_x86_SSE, aalib, acl, act, actionlint, adig, aerc, ag, age, alass, algernon, antibody, aom, apkeep, aptly, archiver, args, aria2, arping, awk, axel, azcopy, b3sum, base16, base64, bash, basis_universal, bat, bc, bcrypt, bear, berkeley-db, bgrep, binaryen, bind, binocle, bison, bit, bk, blockhash, boringssl, boxes, brook, broot, brotli, bsdtar, bullet, busybox, byacc, bzip2, caddy, cargo-c, catch2, ccache, cereal, cflow, cgal, cheat, check, chezmoi, chinese-calendar, chisel, choose, cilium-cli, cjson, cli11, clog, cmake, cmark, cmatrix, cmocka, coreutils, cotp, cpio, cppcheck, cpprestsdk, cpptoml, cppunit, cpuid, cpuinfo, croc, crosstool-ng, crowbook, ctop, cue, curl, curlie, cxxopts, d2, darkhttpd, dasel, dash, dav1d, delta, difftastic, diffutils, dns2tcp, dnslookup, dnsmap, dnsx, dog, doggo, dos2unix, dot_static, double-conversion, doxygen, dua, duf, dufs, duktape, dust, easyutils, ed, elvish, epsilon, erdtree, esbuild, ethereum, exa, exhale, exiv2, eza, faac, faad2, far2l, fcp, fd, fdk-aac, fdroidcl, fff, ffmpeg, figlet, file, findent, findutils, fish, flac, flatc, flex, flock, fontconfig, fselect, fsmon, fswatch, fx, fzf, fzy, g, garble, gat, gawk, gbt, gdk-pixbuf, gdu, geographiclib, germanium, getopt, gettext, gettext-tools, gf, gh, ghr, gif, gindent, git, git-cliff, git-lfs, gitui, gitwatch, glab, glib-tools, glog, glow, glslang, gm4, gmake, gn, gnu-barcode, gnu-which, gnupg, go-md2man, go-tools, godu, gogs, golang, gomobile, google-benchmark, gopls, goreleaser, gosh, gotop, gotty, gox, gperf, gperftools, gping, gpsim, gputils, graphicsmagick, graphviz, grep, grex, gron, grpc-plugins, gsed, gtar, gtime, gum, gzip, halibut, helix, helm, hexdump, hexyl, htop, htslib, httpx, hugo, hunspell, hurl, hwloc, hydroxide, hyperfine, iconv, ideviceinstaller, invoice, ipinfo, iw, jbig2dec, jfrog-cli, jj, jpegoptim, jq, json-glib, jump, kcptun, keybase, ko, krb5, lame, lazygit, lcms2, lcov, ldns, less, lf, libLIEF, libaec, libaio, libao, libargp, libasprintf, libass, libasync++, libatomic_ops, libb2]
+        pkg: [aalib, abook, acl, act, actionlint, adig, aerc, ag, age, alass, algernon, amfora, antibody, aom, apkeep, aptly, archiver, args, aria2, arping, awk, aws-lc, axel, azcopy, b3sum, base16, base64, bash, basis_universal, bat, bc, bcrypt, bear, berkeley-db, bgrep, binaryen, bind, binocle, bison, bit, bk, blockhash, boringssl, boxes, brook, broot, brotli, bsdtar, bullet, busybox, byacc, bzip2, cabin, caddy, cargo-c, cargo-make, catch2, ccache, cereal, cflow, cgal, cheat, check, chezmoi, chinese-calendar, chisel, choose, cilium-cli, cli11, clog, cmake, cmake@3, cmark, cmatrix, cmocka, coreutils, cotp, cpio, cppcheck, cpprestsdk, cpptoml, cppunit, cpuid, cpuinfo, croc, crosstool-ng, crowbook, ctop, cue, curl, curlie, cxxopts, d2, darkhttpd, dasel, dash, dashing, dav1d, delta, desktop-file-utils, difftastic, diffutils, dns2tcp, dnslookup, dnsmap, dnsx, dog, doggo, dos2unix, dot_static, doxygen, dtc, dua, duf, dufs, duktape, dust, easyutils, ed, elftool, elvish, epsilon, erdtree, esbuild, ethereum, exa, exhale, exiv2, eza, faac, faad2, far2l, fcp, fd, fdk-aac, fdroidcl, fff, ffmpeg, figlet, file, findent, findutils, fish, fish@3, flac, flatc, flex, flock, fontconfig, fribidi, fselect, fsmon, fswatch, fx, fzf, fzy, g, garble, gat, gawk, gbt, gdk-pixbuf, gdu, geographiclib, germanium, getopt, gettext, gettext-tools, gf, gh, ghr, gif, gindent, git, git-cliff, git-lfs, gitui, gitwatch, glab, glib-tools, glow, glslang, gm4, gmake, gn, gnu-barcode, gnupg, gnuplot, gnu-which, godu, gogs, golang, go-md2man, gomobile, google-benchmark, gopls, goreleaser, gosh, go-tools, gotop, gotty, gox, gperf, gping, gpsim, gputils, graphicsmagick, graphqxl, graphviz, grep, grex, gron, grpc-plugins, gsed, gtar, gtime, gum, gzip, halibut, hdiffpatch, helix, helm, hexdump, hexyl, htop, htslib, httpx, hugo, hunspell, hurl, hwloc, hydroxide, hyperfine, iconv, ideviceinstaller, invoice, ipinfo, iw, jbig2dec, jfrog-cli, jj, jpegoptim, jq, json-glib, jump, keybase, kibi, ko, krb5, lame, lazygit, lazysql, lcms2, lcov, ldns, less]
 
     runs-on: ubuntu-latest
 
@@ -42,9 +42,9 @@ jobs:
           do
               ./ndk-pkg bundle "$item" .tar.xz
 
-              PACKAGE_SUMMARY="$(./ndk-pkg info-installed "$item" summary)"
-              PACKAGE_WEB_URL="$(./ndk-pkg info-installed "$item" web-url)"
-              PACKAGE_VERSION="$(./ndk-pkg info-installed "$item" version)"
+              PACKAGE_SUMMARY="$(./ndk-pkg show "$item" summary)"
+              PACKAGE_WEB_URL="$(./ndk-pkg show "$item" web-url)"
+              PACKAGE_VERSION="$(./ndk-pkg show "$item" version)"
 
               PACKAGE_NAME="${item#*/}"
 
@@ -63,7 +63,7 @@ jobs:
           EOF
           done
 
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v6
         with:
           name: ${{ matrix.pkg }}
           path: |
@@ -74,7 +74,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        pkg: [libb64, libbcrypt, libblkid, libbluray, libcaca, libcap, libcbor, libcddb, libcdio, libcerf, libcfitsio, libcgif, libcroco, libduktape, libexhale, libexiv2, libfdisk, libflatbuffers, libgeotiff, libgetdomainname, libgetsubopt, libglm, libgnutls, libgraphene, libhexdump, libid3, libilbc, libimagequant, libintl-lite, libirecovery, libisl, libisoburn, libixwebsocket, libjpeg, libkcp, libkvazaar, libldns, libleveldb, liblinear, liblmdb, liblua, libluajit, libmarisa, libmaxminddb, libmblen, libmd, libmesalink, libmetalink, libmhash, libmill, libmimalloc, libminiupnpc, libminiz, libmount, libmpc, libmpir, libmupdf, libnetpbm, libnfc, libnfs, libngtcp2, libnng, libnova, libobstack, libode, liboggz, libolm, libopencc, libopencolorio, libopenh264, libopusenc, liborc, libp11-kit, libphonenumber, libphysfs, libpipeline, libpng++, libpugixml, libqpdf, libqrencode, libquiche, libraqm, libraw, libre, libre2c, libressl, librtmp, libsamplerate, libsigsegv, libsimdjson, libslirp, libsmartcols, libsmi, libsndfile, libsoundtouch, libspatialite, libspectre, libspiro, libspng, libsrt, libsrtp, libsvg, libsvm, libtextstyle, libthai, libtinyalsa, libtinyxml2, libtorrent-rasterbar, libtwolame, libunbound, libuninameslist, libunwind, libupnp, libusrsctp, libvips, libwavpack, libwebm, libwmf, libwv2, libxcrypt, libxnnpack, libyuv, libz3, libzim, libzlog, libzmq, lighttpd, livego, llhttp, lmdb, lnd, lodepng, log4cplus, lolcat, lrzip, lsd, lsof, luajit, luau, lunzip, lychee, lynx, lz4, lzip, lzop, magic_enum, mawk, mcfly, md4c, mdbook, mediainfo, minisign, mm-wiki, mold, mosh, mozjpeg, mpdecimal, mpg123, mruby@3.0.0, mruby@3.2.0, msgpack-c, mujs, naabu, nano, nanomsg, nap, nasm, navi, ncdu, ncurses, ndk-pkg-core, neofetch, netcat, nethogs, netpbm, nghttp2, nginx, ninja, nnn, nsh, ntbtls, nuclei, numactl, nushell, oat++, obfs4proxy, oboe, oggz, okta-aws-cli, onefetch, opa, openal-soft, opencc, opencolorio, opencv, openexr, openjpeg, openlibm, openmpi, openssl, openssl-fips, orcc, p7zip, packcc, patch, patchelf, pbzip2, pcapplusplus, pcre2, pegof, pget, pigz, pjsip, pkg-config, pkgconf, plog, plzip, png, pngcheck, pngquant, pngsplit, poco, ppkg, procs, progress, proj, proot2, protobuf, psimd, pup, putty, pv, pybind11, q, qpdf, qrencode, quickjs, ragel, rancher, rang, rapidjson, rav1e, rclone, re2c, restic, resvg, rhash, ripgrep, ripgrep-all, rlwrap, robin-map, rover, rsass, rsync, rtmpdump, rtorrent]
+        pkg: [lf, libaec, libaio, libao, libargp, libasprintf, libass, libasync++, libatomic_ops, libb2, libb64, libbacktrace, libbcrypt, libblkid, libbluray, libcaca, libcbor, libcddb, libcdio, libcfitsio, libcgif, libcpr, libcroco, libczmq, libduktape, libelf, libexhale, libexiv2, libfaac, libfdisk, libfdt, libfolly, libfts, libgdk-pixbuf, libgeotiff, libgetdomainname, libgetsubopt, libglm, libgraphene, libhexdump, libical, libid3, libilbc, libimagequant, libintl-lite, libirecovery, libisl, libisoburn, libixwebsocket, libjpeg, libkcp, libkvazaar, libldns, libleveldb, libLIEF, liblinear, liblmdb, liblua, libluajit, libmaxminddb, libmblen, libmd, libmesalink, libmetalink, libmhash, libmicrohttpd, libmill, libmimalloc, libminiupnpc, libminiz, libmount, libmpc, libmpir, libmupdf, libneon, libnetpbm, libnfc, libnfs, libnng, libnova, libobstack, libode, liboggz, libolm, libopencc, libopencolorio, libopenh264, libopusenc, liborc, libp11-kit, libpdfium, libphonenumber, libphysfs, libpipeline, libpng++, libproj7, libprotobuf.a, libpugixml, libqpdf, libqrencode, libquiche, libraqm, libraw, libre, libre2c, librecode, libressl, librist, librtmp, libsamplerate, libsdl3, libsigsegv, libsimdjson, libskia_shared, libskia_static, libslirp, libsmartcols, libsmi, libsndfile, libsoundtouch, libspatialite, libspdlog, libspectre, libspiro, libspng, libsrt, libsrtp, libssh@0.11, libsvg, libsvm, libtbox, libtcmalloc, libtextstyle, libthai, libtinyalsa, libtinyxml2, libtorrent-rasterbar, libtwolame, libunbound, libuninameslist, libunwind, libupnp, libusrsctp, libuvwasi, libv8_shared, libv8_static, libvips, libwavpack, libwebm, libwget, libwmf, libwv2, libxcrypt, libxmlb, libyuv, libz3, libzim, libzlog, lighttpd, livego, lmdb, lnd, lodepng, log4cplus, lolcat, lrzip, lsd, lsof, luajit, luau, lunzip, lychee, lynx, lz4, lzip, lzop, magic_enum, mawk, mcfly, md4c, mdbook, mediainfo, minisign, mm-wiki, mold, mosh, mozjpeg, mp3splt, mpdecimal, mpg123, mruby@3.0.0, mruby@3.2.0, msgpack-c, mujs, naabu, nano, nanomsg, nap, nasm, navi, ncdu, ncurses, ndk-pkg-core, neofetch, netcat, nethogs, netpbm, nghttp2, nginx, ninja, nnn, nsh, ntbtls, nuclei, numactl, nushell, oat++, obfs4proxy, oboe, oggz, okta-aws-cli, onefetch, opa, openal-soft, opencc, opencolorio, opencv, openexr, openjpeg, openjph, openlibm, openmpi, openssl, openssl-fips, orcc, p7zip, packcc, patch, patchelf, pbzip2, pcapplusplus, pcre2grep, pegof, pget, pigz, pjsip, pkgconf, pkg-config, plog, plzip, png, pngcheck, pngquant, pngsplit, poco, ppkg]
 
     runs-on: ubuntu-latest
 
@@ -107,9 +107,9 @@ jobs:
           do
               ./ndk-pkg bundle "$item" .tar.xz
 
-              PACKAGE_SUMMARY="$(./ndk-pkg info-installed "$item" summary)"
-              PACKAGE_WEB_URL="$(./ndk-pkg info-installed "$item" web-url)"
-              PACKAGE_VERSION="$(./ndk-pkg info-installed "$item" version)"
+              PACKAGE_SUMMARY="$(./ndk-pkg show "$item" summary)"
+              PACKAGE_WEB_URL="$(./ndk-pkg show "$item" web-url)"
+              PACKAGE_VERSION="$(./ndk-pkg show "$item" version)"
 
               PACKAGE_NAME="${item#*/}"
 
@@ -128,7 +128,7 @@ jobs:
           EOF
           done
 
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v6
         with:
           name: ${{ matrix.pkg }}
           path: |
@@ -139,7 +139,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        pkg: [ruff, rust-analyzer, rustscan, ruy, samurai, sassc, scc, scdoc, sd, shaderc, shc, shell2http, shellharden, shiori, silicon, sjpeg, skcms, sl, sndfile, speex, sqlite3, starship, stwolame, stylua, subfinder, superfile, supervisord, suricata, svn-lite, svt-av1, swig, syncthing, sysinfo, szip, taglib, tarlz, tbox, tcl, tcpdump, tdu, tealdeer, tectonic, tengo, tiff, tig, tinyalsa, tinysearch, tlrc, tmux, tokei, toml++, toml11, totp-cli, tree, trietool, ttyd, ttygif, ttyrec, tut, tweego, typos, uctags, unbound, unrar, uppm, uppm@0.15.2, uppm@0.15.3, uppm@0.15.4, usbmuxd, utf8.h, utfcpp, uthash, util-linux, valijson, vegeta, vim, virustotal-cli, vulkan-headers, wabt, wasm3, wasmtime, watchexec, wavpack, webhook, webp, websocat, wget, wget2, whois, wolfssl, x264, x265, xh, xmake, xmlstarlet, xmlutils, xmlwf, xorriso, xpup, xsltproc, xxd, xxhash, xz, yasm, yazi, youtubedr, yq, yyjson, zip, zlib, zlib-ng, zola, zopfli, zoxide, zsh, zstd, zsync]
+        pkg: [procs, progress, proj, proot2, protobuf, psimd, pup, putty, pv, pybind11, q, qalc, qpdf, qrencode, quickjs, ragel, rancher, rang, rapidjson, rav1e, rclone, re2c, recode, restic, resvg, rhash, ripgrep, ripgrep-all, rlwrap, robin-map, rover, rsass, rsync, rtmpdump, rtorrent, ruff, rust-analyzer, rustscan, samurai, sassc, scc, scdoc, sd, shaderc, shc, shell2http, shellharden, shiori, sig, silicon, sjpeg, skcms, sl, sndfile, speex, sqlite3, squashfs-tools-ng, starship, stdbuf, stwolame, stylua, subfinder, superfile, supervisord, suricata, svn-lite, svt-av1, swig, syncthing, sysinfo, szip, taglib, tarlz, tcl, tcpdump, tcping, tdu, tealdeer, tectonic, tengo, tensorflow-lite, tic, tiff, tig, tinyalsa, tinysearch, tlrc, tmux, tokei, toml++, toml11, totp-cli, tree, trietool, ttyd, ttygif, ttyrec, tut, tweego, typos, uctags, unbound, unrar, unzip, uppm, uppm@0.15.2, uppm@0.15.3, uppm@0.15.4, usbmuxd, utf8.h, uthash, util-linux, uutils-coreutils, valijson, vegeta, vim, virustotal-cli, vulkan-headers, wabt, wasm3, wasmer, wasmtime, watchexec, wavpack, webhook, webp, websocat, wget, wget2, whois, wolfssl, wuzz, x264, x265, xh, xmake, xmlstarlet, xmlutils, xmlwf, xorriso, xpup, xsltproc, xxd, xxhash, xz, yasm, yazi, youtubedr, yq, yyjson, zip, zlib, zlib-ng, zola, zopfli, zoxide, zsh, zstd, zsync]
 
     runs-on: ubuntu-latest
 
@@ -172,9 +172,9 @@ jobs:
           do
               ./ndk-pkg bundle "$item" .tar.xz
 
-              PACKAGE_SUMMARY="$(./ndk-pkg info-installed "$item" summary)"
-              PACKAGE_WEB_URL="$(./ndk-pkg info-installed "$item" web-url)"
-              PACKAGE_VERSION="$(./ndk-pkg info-installed "$item" version)"
+              PACKAGE_SUMMARY="$(./ndk-pkg show "$item" summary)"
+              PACKAGE_WEB_URL="$(./ndk-pkg show "$item" web-url)"
+              PACKAGE_VERSION="$(./ndk-pkg show "$item" version)"
 
               PACKAGE_NAME="${item#*/}"
 
@@ -193,7 +193,7 @@ jobs:
           EOF
           done
 
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v6
         with:
           name: ${{ matrix.pkg }}
           path: |
@@ -209,9 +209,9 @@ jobs:
       GH_TOKEN: ${{ github.token }}
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
-      - uses: actions/download-artifact@v4
+      - uses: actions/download-artifact@v8
         with:
           pattern: '*'
           path: .
@@ -219,16 +219,17 @@ jobs:
 
       - run: ls
 
-      - run: |
-          set -ex
-
+      - id: tagname
+        run: |
           TAGNAME="$(date +%Y.%m.%d)"
+          printf 'TAGNAME=%s\n' "$TAGNAME" >> "GITHUB_OUTPUT"
 
-          sed -i "s|@TAGNAME@|$TAGNAME|" *.yml
+      - run: sed -i 's|@TAGNAME@|${{ steps.tagname.outputs.TAGNAME }}|' *.yml
 
-          mv *.yml formula/
+      - run: mv *.yml formula/
 
-          DIRNAME="uppm-formula-repository-android-35-aarch64-$TAGNAME"
+      - run: |
+          DIRNAME="uppm-formula-repository-android-35-aarch64-${{ steps.tagname.outputs.TAGNAME }}"
 
           install -d "$DIRNAME"
 
@@ -236,46 +237,19 @@ jobs:
 
           tar cvJf "$DIRNAME.tar.xz" "$DIRNAME"
 
-          sha256sum *.tar.xz > sha256sums.txt
-
-          cat > notes.md <<EOF
-          these packages are created by [ndk-pkg](https://github.com/leleliu008/ndk-pkg).
-
-          ## Environment Variables
-
-          **following environment variables should be set for \`git\` package**
-
-          \`\`\`bash
-          export GIT_EXEC_PATH="\$GIT_INSTALL_DIR/libexec/git-core"
-          export GIT_TEMPLATE_DIR="\$GIT_INSTALL_DIR/share/git-core/templates"
-          \`\`\`
-
-          **following environment variables should be set for \`file\` package**
-
-          \`\`\`bash
-          export MAGIC="\$FILE_INSTALL_DIR/share/misc/magic.mgc"
-          \`\`\`
-
-          ## sha256sum
-
-          \`\`\`
-          $(cat sha256sums.txt)
-          \`\`\`
-          EOF
-
-          gh release create "$TAGNAME" sha256sums.txt --title "$TAGNAME" --notes-file notes.md
+      - run: |
+          gh release create ${{ steps.tagname.outputs.TAGNAME }} --title ${{ steps.tagname.outputs.TAGNAME }} --notes 'These packages are created by [ndk-pkg](https://github.com/leleliu008/ndk-pkg)'
 
           for f in *.tar.xz
           do
             sleep 1s
-            gh release upload "$TAGNAME" "$f"
+            gh release upload ${{ steps.tagname.outputs.TAGNAME }} "$f"
           done
 
-          git config --global user.name  "leleliu008"
-          git config --global user.email "leleliu008@gmail.com"
+      - run: git config --global user.name  leleliu008
+      - run: git config --global user.email leleliu008@gmail.com
 
-          git pull
-
-          git add formula
-          git commit -m "release new version $TAGNAME"
-          git push origin master
+      - run: git pull
+      - run: git add formula
+      - run: git commit -m 'release new version ${{ steps.tagname.outputs.TAGNAME }}'
+      - run: git push origin master
