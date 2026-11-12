@@ -5,7 +5,7 @@ set -e
 if [ -d ndk-pkg-formula-repository-official-core ] ; then
     git -C ndk-pkg-formula-repository-official-core pull
 else
-    git clone --depth=1 https://github.com/leleliu008/ndk-pkg-formula-repository-official-core
+    git clone --depth=1 https://ghfast.top/https://github.com/leleliu008/ndk-pkg-formula-repository-official-core
 fi
 
 cd ndk-pkg-formula-repository-official-core/formula
@@ -16,7 +16,7 @@ sed -n '/^dep-pkg:/p' *.yml | cut -c10- | tr ' ' '\n' | sort | uniq > b
 
 SED="sed -e s|^-||"
 
-for item in d8 v8 skia pdfium webrtc fortune libqalculate
+for item in libskia_shared libskia_static libv8_shared libv8_static libpdfium libfolly cpprestsdk d8 webrtc fortune krb5 far2l fish yazi busybox util-linux tensorflow-lite
 do
     SED="$SED -e /^$item$/d"
 done
@@ -77,12 +77,7 @@ do
 
     runs-on: ubuntu-latest
 
-    container: ubuntu:24.04
-
     steps:
-      - run: apt -y update
-      - run: apt -y install curl
-
       - run: curl -LO https://raw.githubusercontent.com/leleliu008/ndk-pkg/master/ndk-pkg
       - run: chmod a+x ndk-pkg
 
