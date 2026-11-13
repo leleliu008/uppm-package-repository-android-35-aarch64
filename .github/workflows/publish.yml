@@ -1,7 +1,14 @@
-name: publish
+name: publish a new release
+
+permissions:
+  contents: write
 
 on:
-  workflow_dispatch
+  workflow_dispatch:
+
+  schedule:
+    # every monday UTC 00:00
+    - cron: '0 0 * * 1'
 
 jobs:
 
@@ -283,7 +290,7 @@ jobs:
           tar cvJf "$DIRNAME.tar.xz" "$DIRNAME"
 
       - run: |
-          gh release create ${{ steps.tagname.outputs.TAGNAME }} --title ${{ steps.tagname.outputs.TAGNAME }} --notes 'These packages are created by [ndk-pkg](https://github.com/leleliu008/ndk-pkg)'
+          gh release create ${{ steps.tagname.outputs.TAGNAME }} --title ${{ steps.tagname.outputs.TAGNAME }} --notes 'These packages are created using [ndk-pkg](https://github.com/leleliu008/ndk-pkg)'
 
           for f in *.tar.xz
           do
@@ -296,5 +303,5 @@ jobs:
 
       - run: git pull
       - run: git add formula
-      - run: git commit -m 'release new version ${{ steps.tagname.outputs.TAGNAME }}'
+      - run: git commit -m 'release version ${{ steps.tagname.outputs.TAGNAME }}'
       - run: git push origin master
