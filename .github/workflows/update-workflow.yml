@@ -1,0 +1,22 @@
+name: update workflow
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '0 10 * * *'
+
+jobs:
+  update:
+
+    runs-on: ubuntu-latest
+
+    env:
+      GH_TOKEN: ${{ github.token }}
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - run: curl -LO https://raw.githubusercontent.com/leleliu008/auto/refs/heads/master/generate-github-actions-workflow-for-uppm-package-repository-android-N-aarch64
+
+      - run: sh generate-github-actions-workflow-for-uppm-package-repository-android-N-aarch64 35
