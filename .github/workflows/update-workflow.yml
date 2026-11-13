@@ -17,6 +17,6 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - run: curl -LO https://raw.githubusercontent.com/leleliu008/auto/refs/heads/master/generate-github-actions-workflow-for-uppm-package-repository-android-N-aarch64
+      - run: curl -LO https://raw.githubusercontent.com/leleliu008/auto/refs/heads/master/update-github-actions-workflow-for-uppm-package-repository-android-N-aarch64
 
-      - run: sh generate-github-actions-workflow-for-uppm-package-repository-android-N-aarch64 35
+      - run: sh update-github-actions-workflow-for-uppm-package-repository-android-N-aarch64 35
