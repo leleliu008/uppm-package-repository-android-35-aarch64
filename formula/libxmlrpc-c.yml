@@ -1,0 +1,5 @@
+summary: A lightweight RPC library for C/C++ based on XML and HTTP
+webpage: https://xmlrpc-c.sourceforge.io/
+version: 1.64.04
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/libxmlrpc-c-1.64.04-android-35-arm64-v8a.release.tar.xz
+bin-sha: 48c825b216c5a1aa9453f6556f4757e56649f274669d8bd2b5590554230d6b3a

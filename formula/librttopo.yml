@@ -1,5 +1,5 @@
 summary: RT Topology Library
-webpage: https://git.osgeo.org/gitea/rttopo/librttopo
+webpage: https://deb.debian.org/
 version: 1.1.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/librttopo-1.1.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: 96fd1aa372b3999b7de1ebd6db962f59dde29ccab59a123b440a978ab4e72cbc
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/librttopo-1.1.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 77ad1f7bae1c8e6bd23ad6684c99daeb552ad3f275dce819db584730f5904f30

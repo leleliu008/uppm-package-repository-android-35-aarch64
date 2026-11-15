@@ -1,0 +1,5 @@
+summary: Tiny C compiler
+webpage: http://www.tinycc.org/
+version: 0.9.27
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/tcc-0.9.27-android-35-arm64-v8a.release.tar.xz
+bin-sha: dca8de49c9f5c06c7ae3e09196ccbde0c4f379af49549ca3cf98e5de1652e79a

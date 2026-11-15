@@ -1,5 +1,5 @@
 summary: DCE compatible Universally Unique Identifier library
-webpage: https://github.com/util-linux/util-linux
-version: 2.40.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/libuuid-2.40.2-android-35-arm64-v8a.release.tar.xz
-bin-sha: ed27894c3b64b18ab924514c2f47fecdb0225ef021c15062599ee296648f9766
+webpage: https://mirrors.edge.kernel.org/
+version: 2.42.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/libuuid-2.42.4-android-35-arm64-v8a.release.tar.xz
+bin-sha: 8bb38aad3d3a70960c9de7d6152de2d1e59330443c5845b41624d256ee40a4df

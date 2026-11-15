@@ -1,0 +1,5 @@
+summary: Open-source implementation of JPEG2000 Part-15 (or JPH or HTJ2K)
+webpage: https://github.com/aous72/OpenJPH
+version: 0.33.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/libopenjph-0.33.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 17ad7fda0e40208adf87d7e62406f9a9f0736bb26c3ce04858335353ba2f14ae

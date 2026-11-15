@@ -1,0 +1,5 @@
+summary: Cargo subcommand to provide options for testing and continuous integration
+webpage: https://github.com/taiki-e/cargo-hack
+version: 0.6.46
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/cargo-hack-0.6.46-android-35-arm64-v8a.release.tar.xz
+bin-sha: 0d3d002ca5e87bbd9a59d68a7b0070b262aa453538b07092b254c6d380249e99

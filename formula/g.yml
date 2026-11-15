@@ -1,5 +1,5 @@
 summary: Powerful and cross-platform ls
 webpage: https://g.equationzhao.space
-version: 0.28.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/g-0.28.2-android-35-arm64-v8a.release.tar.xz
-bin-sha: d9560526585cfa0ebae922f1f3b35a50b6a8afa1b7df42168b082b41992b5918
+version: 0.31.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/g-0.31.2-android-35-arm64-v8a.release.tar.xz
+bin-sha: 3d90d94688b0c002978e0d2033e2041dff8395630ee0e3367a963d30bcb01cf1

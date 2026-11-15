@@ -1,5 +1,5 @@
-summary: Utility that provides fast incremental file transfer
+summary: A command-line tool for synchronizing files
 webpage: https://rsync.samba.org/
-version: 3.4.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/rsync-3.4.1-android-35-arm64-v8a.release.tar.xz
-bin-sha: b698eefd8a5f803c5c59252397a59254462ed57c8e7b17b66e413844f0cd6410
+version: 3.5.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/rsync-3.5.2-android-35-arm64-v8a.release.tar.xz
+bin-sha: ae1df966400fe3f85bc1e0ae27fd523cc7cf719095871af1656be0843b59370d

@@ -1,5 +1,5 @@
 summary: GNU implementation of which utility
-webpage: https://carlowood.github.io/which/index.html
-version: 2.21
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/gnu-which-2.21-android-35-arm64-v8a.release.tar.xz
-bin-sha: 7a6bfd175be62c9b6d19dc6c6a0bde59e03511a2757b415136fcd3a73f92e5f6
+webpage: https://www.gnu.org/software/which
+version: 2.25
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/gnu-which-2.25-android-35-arm64-v8a.release.tar.xz
+bin-sha: a374bad3781ab56dcc0ae2623967d5754163af853d9d94d7acb8d48746789ea6

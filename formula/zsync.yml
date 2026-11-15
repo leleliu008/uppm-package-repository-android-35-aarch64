@@ -1,5 +1,5 @@
-summary: A file transfer program
-webpage: http://zsync.moria.org.uk/
-version: 0.6.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/zsync-0.6.2-android-35-arm64-v8a.release.tar.xz
-bin-sha: 69f65fd0ee56ad1e6057c96e5420d29283bffcd5f241294c3f954988ae927aca
+summary: A command-line tool similar to rsync but optimised for transfering single large files across the network
+webpage: https://zsync.moria.org.uk/
+version: 0.8.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.2/zsync-0.8.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 4dab3d8108d85bd07daa38556d2704826fc28393067c6e62cf4c6c3cf34fd47a

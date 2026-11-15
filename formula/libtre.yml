@@ -1,0 +1,5 @@
+summary: Lightweight, POSIX-compliant regular expression (regex) library
+webpage: https://github.com/laurikari/tre
+version: 0.9.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/libtre-0.9.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: fabdfb72bb24e06e9bdaeac3105ec31646e7f907a806017920bd60678d66f844

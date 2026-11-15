@@ -1,5 +1,5 @@
 summary: Standalone JIT-style runtime for WebAssembly, using Cranelift
 webpage: https://wasmtime.dev/
-version: 22.0.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/wasmtime-22.0.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: 22f102fdc3456fe77e6c2ce6267c0637d637aaaee65878a7dbe07666b873d833
+version: 50.0.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/wasmtime-50.0.1-android-35-arm64-v8a.release.tar.xz
+bin-sha: 79ca146b6acd9a97e54398f4cebd79fbc503a1e8b46ffaaf7e1dc1e0b7493883

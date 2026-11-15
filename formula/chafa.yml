@@ -1,0 +1,5 @@
+summary: A command-line utility to convert all kinds of images to ANSI/Unicode characters
+webpage: https://hpjansson.org/chafa/
+version: 1.18.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/chafa-1.18.3-android-35-arm64-v8a.release.tar.xz
+bin-sha: e91e469bd3c5b4d487db3a1a96d4f05f2b4f7e579bda443a7b5e57afbb172472

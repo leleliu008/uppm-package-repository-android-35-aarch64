@@ -1,5 +1,5 @@
 summary: Utility for computing and verifying hash sums of files
 webpage: http://rhash.sourceforge.net
-version: 1.4.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/rhash-1.4.4-android-35-arm64-v8a.release.tar.xz
-bin-sha: fa4ddea2ad6e57d00777da35a7d1fc09dfd785dd54c882946d925f4cf0a9ba30
+version: 1.4.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/rhash-1.4.6-android-35-arm64-v8a.release.tar.xz
+bin-sha: 4e5c124e3557b987f0da2f6e41f14d0c754f4960077ce135c200a1b522290e3f

@@ -1,5 +1,5 @@
 summary: Netwide Assembler (NASM) is an 80x86 assembler
-webpage: https://www.nasm.us
-version: 2.16.03
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/nasm-2.16.03-android-35-arm64-v8a.release.tar.xz
-bin-sha: 3478ce7c78df5160e850fcaa54c74951348446cafb059940004dd73d1a940bd2
+webpage: https://www.nasm.us/
+version: 3.02
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/nasm-3.02-android-35-arm64-v8a.release.tar.xz
+bin-sha: 65cb6b703434c3f0db31fad4119343d869a0154e7a2254993e73d23caa47bf54

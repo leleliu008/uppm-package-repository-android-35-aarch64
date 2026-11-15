@@ -1,0 +1,5 @@
+summary: Convert character set (charsets)
+webpage: https://github.com/rrthomas/recode
+version: 3.7.17
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/recode-3.7.17-android-35-arm64-v8a.release.tar.xz
+bin-sha: 4ecae855e951a7459c2935cb4668aae98d2e3a1862211b6c2d501894206ab378

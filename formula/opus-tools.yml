@@ -1,0 +1,5 @@
+summary: Utilities to encode, inspect, and decode .opus files
+webpage: https://www.opus-codec.org/
+version: 0.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/opus-tools-0.2-android-35-arm64-v8a.release.tar.xz
+bin-sha: c22061b60c920bc01bf5157aa0a0995f6b0be8f7f45c2244b1e32e299f9b4482

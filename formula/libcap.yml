@@ -1,5 +1,5 @@
 summary: Linux Capability Library
-webpage: https://git.kernel.org/pub/scm/libs/libcap/libcap.git
-version: 2.70
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/libcap-2.70-android-35-arm64-v8a.release.tar.xz
-bin-sha: 4d5bc2b31c3743841dd92feb29b1964f276b7ca5ac6640606c2beea31db55dc8
+webpage: https://mirrors.edge.kernel.org/
+version: 2.78
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/libcap-2.78-android-35-arm64-v8a.release.tar.xz
+bin-sha: 97652ff695dd10f70cdbc5e9a5f35f8cde30c2dbbb952cc6497786fc3171701f

@@ -1,0 +1,5 @@
+summary: Syntax-aware linter for prose
+webpage: https://vale.sh/
+version: 3.27.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/vale-3.27.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: e59a09774a6d256973ba10d752f347251a62e9072b9f0c76baf953622008a2a2

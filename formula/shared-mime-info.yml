@@ -1,0 +1,5 @@
+summary: Database of common MIME types
+webpage: https://wiki.freedesktop.org/www/Software/shared-mime-info
+version: 2.5.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/shared-mime-info-2.5.1-android-aarch64.release.tar.xz
+bin-sha: e85fc5df23330b45633530537ed9bd60e7d5fdefcaecb1ada0bfdcbd21e058e0

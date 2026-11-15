@@ -1,5 +1,5 @@
-summary: The ultimate library for managing PDF documents
+summary: Lightweight PDF and XPS viewer
 webpage: https://mupdf.com/
-version: 1.24.9
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2025.01.24/libmupdf-1.24.9-android-35-arm64-v8a.release.tar.xz
-bin-sha: 7965141a916dae9e08c453685d8eeed7ad427d24fe27f57dbec0159057c68342
+version: 1.28.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/libmupdf-1.28.6-android-aarch64.release.tar.xz
+bin-sha: 92be53790da473ef07e22c110ba3dffceed35ff67277afdc9b16682f5e7a882d

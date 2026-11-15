@@ -1,0 +1,5 @@
+summary: A package manager to build C/C++ packages with a Cargo-style workflow
+webpage: https://cabinpkg.com
+version: 0.18.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/cabin-0.18.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 21be81eacc3aff324e2846d7a64abd4b766b3cbd66aebd4992a7a529dfac3557
