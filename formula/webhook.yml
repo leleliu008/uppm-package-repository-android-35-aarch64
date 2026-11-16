@@ -1,5 +1,5 @@
 summary: A HTTP server to execute shell commands
 webpage: https://github.com/adnanh/webhook
 version: 2.8.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/webhook-2.8.3-android-35-arm64-v8a.release.tar.xz
-bin-sha: d0217c43bd55954443e0514cce081749896497fc84247e8935d03371b9f63eb7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/webhook-2.8.3-android-35-arm64-v8a.release.tar.xz
+bin-sha: f42bc6848b358f0a26dbc3a273ef55c18f19f1c2726cb935aab8281caba98976

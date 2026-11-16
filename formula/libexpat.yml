@@ -1,5 +1,5 @@
 summary: XML 1.0 parser
 webpage: https://libexpat.github.io
 version: 2.10.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/libexpat-2.10.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: a1d8bf9308238e7780ba1a64ba5ebde259483b0594e7160d4bffe5e27fb2f53e
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libexpat-2.10.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 9feda39e023941a6d7757164c18acc180d05ea330b8c8487ed3760bea18feacc

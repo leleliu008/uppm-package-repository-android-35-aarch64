@@ -1,5 +1,5 @@
 summary: A modern alternative to the tree(1)
 webpage: https://github.com/dduan/tre
 version: 0.4.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/tre-0.4.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: 5eca7335b6c137cba29089e7a2dccb5aa159189a4fbf0983c2950c556d76f579
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/tre-0.4.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 7634ccea0ded57afe66f0ecf414c80d57e71c4167c2e235f687aca708b70183b

@@ -1,5 +1,5 @@
 summary: A fast, small, safe, gradually typed embeddable scripting language derived from Lua
 webpage: https://luau-lang.org
 version: 0.747
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/luau-0.747-android-35-arm64-v8a.release.tar.xz
-bin-sha: 97569f29608cfbe43dabe03df6e11e6504583effc0f0292a8be146ab3af710a2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/luau-0.747-android-35-arm64-v8a.release.tar.xz
+bin-sha: e53e2eddc747813a7bd1cba36d28efc9b84baf05e2ec02b6734aa5d52aaa94cf

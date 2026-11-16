@@ -1,5 +1,5 @@
 summary: A lightweight download accelerator
 webpage: https://github.com/axel-download-accelerator/axel
 version: 2.17.14
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/axel-2.17.14-android-35-arm64-v8a.release.tar.xz
-bin-sha: 0825e58fc44b0dd3026e525a7939ca2ffa05263aa8acdc12af1ca2f2933690af
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/axel-2.17.14-android-35-arm64-v8a.release.tar.xz
+bin-sha: a7df84b4806aac227f029602bf02efa73b8b8e78334d867455efa4ea15384cc4

@@ -1,5 +1,5 @@
 summary: HTTP(S) server and reverse proxy, and IMAP/POP3 proxy server
 webpage: https://nginx.org/
 version: 1.31.8
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/nginx-1.31.8-android-35-arm64-v8a.release.tar.xz
-bin-sha: 9b9d11e806b18f85b562c0465a6caff0d48151f5e56842b577ec95dd079594f4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/nginx-1.31.8-android-35-arm64-v8a.release.tar.xz
+bin-sha: f4468da5f6f7a78809b2f74fc8e352d149132631685bf01e3c9591e60dc9e26f

@@ -1,5 +1,5 @@
 summary: A command-line tool to modify the buffering operations for standard input, output and error streams of another command
 webpage: https://uutils.github.io/coreutils/
 version: 0.12.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/stdbuf-0.12.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: 9d34dc36b79bfb3825f243d104d4dd8b7f1849b9a054236b00bcf546ef20118f
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/stdbuf-0.12.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 1d45e815f24d0bb4d7f06dec57309e28f8db9d0c750c9503a4c50559b45a4882

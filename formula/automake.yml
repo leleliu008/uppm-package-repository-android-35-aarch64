@@ -1,5 +1,5 @@
 summary: Tool for generating GNU Standards-compliant Makefiles
 webpage: https://www.gnu.org/software/automake
 version: 1.20
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/automake-1.20-android-aarch64.release.tar.xz
-bin-sha: c26537def30a26827b3db2296f612c67fd746baba2b2777440ef4e360efc1ec4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/automake-1.20-android-aarch64.release.tar.xz
+bin-sha: 1cc605b2230447893b659f1770914db6eb52d02fd4f79957290922ae3198bfd3

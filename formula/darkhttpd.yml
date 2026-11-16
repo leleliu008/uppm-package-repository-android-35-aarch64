@@ -1,5 +1,5 @@
 summary: A small static web server without CGI
 webpage: https://unix4lyfe.org/darkhttpd/
 version: 1.17
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/darkhttpd-1.17-android-35-arm64-v8a.release.tar.xz
-bin-sha: 2d6bdfcbd21d9e659effc7a0538f449e3d0d9ef3636939e7b5bbb41a5cc87cc3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/darkhttpd-1.17-android-35-arm64-v8a.release.tar.xz
+bin-sha: bd2716b26d6c88846c193eb6a952fd96f358a99acde6fc27a6deece8d754c663

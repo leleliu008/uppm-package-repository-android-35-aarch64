@@ -1,5 +1,5 @@
 summary: Automatic Language-Agnostic Subtitle Synchronization
 webpage: https://github.com/kaegi/alass
 version: 2.0.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/alass-2.0.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: 45af76e9ed510414c79d1724fc7cc3272e0e849d5e62070cc6e205547e07ba3b
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/alass-2.0.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 43e34093088ef4df999e2e3984e5e197363ef8d2108345d64df789a58c9ac0f4

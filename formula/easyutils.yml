@@ -1,5 +1,5 @@
 summary: A collections of easy to use command-line utilities
 webpage: https://github.com/leleliu008/C-examples
-version: 2026.11.15
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/easyutils-2026.11.15-android-35-arm64-v8a.release.tar.xz
-bin-sha: d4b4b0bd1ff153198133f37620bef01d797866687555a796ed86dae8f094bac3
+version: 2026.11.16
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/easyutils-2026.11.16-android-35-arm64-v8a.release.tar.xz
+bin-sha: 9a0c2dd5cad86728f889b1175c418271fb78be45e93d923e88030518d9b6358d

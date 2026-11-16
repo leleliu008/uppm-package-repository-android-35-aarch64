@@ -1,5 +1,5 @@
 summary: GNU internationalization (i18n) and localization (l10n) library
 webpage: https://www.gnu.org/software/gettext
 version: 1.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/libintl-1.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: 83884bcb9116e857985186d956905a66430004b96fbe43bb2689e965061122bf
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libintl-1.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: e3b56b794d2e803009e76d47bfa6a28bc8ceed8d0d52f226d95708150f087940

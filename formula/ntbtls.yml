@@ -1,5 +1,5 @@
 summary: Not Too Bad TLS library
 webpage: https://www.gnupg.org/software/ntbtls/index.html
 version: 0.3.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/ntbtls-0.3.2-android-35-arm64-v8a.release.tar.xz
-bin-sha: 47ea560f95e22bca0c145a4907d169ccf9b5850af5fc104433fdf9a4b409132a
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/ntbtls-0.3.2-android-35-arm64-v8a.release.tar.xz
+bin-sha: 56e8e47787be87c97b7f985912e2bab56bf49365537e0d452be68d98cc06a95a

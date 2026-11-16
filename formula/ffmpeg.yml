@@ -1,5 +1,5 @@
 summary: A complete, cross-platform solution to record, convert and stream audio and video
 webpage: https://ffmpeg.org/
 version: 9.0.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/ffmpeg-9.0.2-android-35-arm64-v8a.release.tar.xz
-bin-sha: 929deb19d1b0c024cccd1e7814321c860512a9be6abbbd773669d04ae2856351
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/ffmpeg-9.0.2-android-35-arm64-v8a.release.tar.xz
+bin-sha: d6a90e39ba2a5b323006ecc24364dfd2a9f13030b78e34946d9cfe8beeca6d54

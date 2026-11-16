@@ -1,5 +1,5 @@
 summary: International domain name library
 webpage: https://www.gnu.org/software/libidn
 version: 1.44
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/libidn-1.44-android-35-arm64-v8a.release.tar.xz
-bin-sha: f7a3661700e1f3533b36fdff69076de390fb7799633cd349ca3fe31f1a2c5c7d
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libidn-1.44-android-35-arm64-v8a.release.tar.xz
+bin-sha: 290b59b3cbc39ca77cdc02f116e997dbbc89dc49cf7c4492f1407249cd7f48ae

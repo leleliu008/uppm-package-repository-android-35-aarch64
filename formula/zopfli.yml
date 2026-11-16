@@ -1,5 +1,5 @@
 summary: New zlib (gzip, deflate) compatible compressor
 webpage: https://github.com/google/zopfli
 version: 1.0.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.2/zopfli-1.0.3-android-35-arm64-v8a.release.tar.xz
-bin-sha: 3661a8022c6c8fc847d8a469f73d82afdb586ebf5dcfa0349ab90e7488399f62
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.2/zopfli-1.0.3-android-35-arm64-v8a.release.tar.xz
+bin-sha: c2636ea8843872efe7294698b9fa84c23d3ea683fb9eb212efaa03bd41930485

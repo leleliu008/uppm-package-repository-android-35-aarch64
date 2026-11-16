@@ -1,5 +1,5 @@
 summary: C++ mathematics library for graphics software
 webpage: https://glm.g-truc.net/
 version: 1.0.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/libglm-1.0.3-android-35-arm64-v8a.release.tar.xz
-bin-sha: c36730f826125d9d3c7d2eef69f05b94ee9d6a7be69dfd6ba93d5885a88fe7de
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libglm-1.0.3-android-35-arm64-v8a.release.tar.xz
+bin-sha: 0ecc650262f8e7ec31766aa2609dd3bd833bb48025c44784cec8911dc5a29b9d

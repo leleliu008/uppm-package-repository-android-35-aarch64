@@ -1,5 +1,5 @@
 summary: A reference implementation of JPEG XL image format (encoder and decoder)
 webpage: https://jpeg.org/jpegxl/index.html
 version: 0.13.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/libjxl-0.13.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: c173189721c3d0b2d0905ac22bb7f92d469c01db85d320b2be9bb4727624b4dd
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libjxl-0.13.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: e1cd23aea2ce0901fe7807eeecbb5b6c46abcb8c150914a066828c0bd414f28e

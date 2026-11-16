@@ -1,5 +1,5 @@
 summary: Audio time stretcher tool and library
 webpage: https://breakfastquay.com/rubberband/
 version: 4.0.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/librubberband-4.0.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: 7f44f8fd1e65872fbd4b2f8b370f70688c5b377e9cae967483b90439cc7e530b
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/librubberband-4.0.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 66ccfd7138d46540f1e2c156f849f43d904cbf702771f81938ba704b570fbadf

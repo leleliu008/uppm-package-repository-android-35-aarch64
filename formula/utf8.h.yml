@@ -1,5 +1,5 @@
 summary: single header utf8 string functions for C and C++
 webpage: https://github.com/sheredom/utf8.h
-version: 2026.11.15
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/utf8.h-2026.11.15-android-aarch64.release.tar.xz
-bin-sha: 53a1fc2fbfec1b72bf989fb5043035d0a45f397b208729038dd23133d0cebbc2
+version: 2026.11.16
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/utf8.h-2026.11.16-android-aarch64.release.tar.xz
+bin-sha: ccc29aa027fe6d7b205b03935a6b4d9eaa42520867b81b921514466a5a9618a3

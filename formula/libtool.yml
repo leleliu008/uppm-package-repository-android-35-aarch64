@@ -1,5 +1,5 @@
 summary: Generic library support script
 webpage: https://www.gnu.org/software/libtool
 version: 2.6.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/libtool-2.6.2-android-35-arm64-v8a.release.tar.xz
-bin-sha: 9959e8680c9ef97737342736c3439fe591e723fb2724f6e4f87b365f58f9233f
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libtool-2.6.2-android-35-arm64-v8a.release.tar.xz
+bin-sha: 783ca126d989d85a9694ccdbdd8fcc3543f9e388641dc48653d73d14cbe6cff7

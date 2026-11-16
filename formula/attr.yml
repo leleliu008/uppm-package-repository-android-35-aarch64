@@ -1,5 +1,5 @@
 summary: C library and utilities for Manipulating Filesystem Extended Attributes
 webpage: https://savannah.nongnu.org/projects/attr
 version: 2.5.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/attr-2.5.2-android-35-arm64-v8a.release.tar.xz
-bin-sha: c714183a9500d2436eedc8f6e7211fecc5b20868ea934a188e1a08a8f0de02c9
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/attr-2.5.2-android-35-arm64-v8a.release.tar.xz
+bin-sha: 04d9183400affd3d95bf39faa13e428f4fe8156bf51a288d9db75716dc3db382

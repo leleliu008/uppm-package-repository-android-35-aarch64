@@ -1,5 +1,5 @@
 summary: parse suboption arguments from a string
 webpage: https://man7.org/linux/man-pages/man3/getsubopt.3.html
 version: 1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/libgetsubopt-1-android-35-arm64-v8a.release.tar.xz
-bin-sha: e04210ed81a3bb185bcb9c08dacc81ef6c342cb365b1bc6a75fc1c27a735e270
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libgetsubopt-1-android-35-arm64-v8a.release.tar.xz
+bin-sha: 9a19c5959062b6dbbe7884f7d40fa71206ff86b1c616b479bcd285b9b0d59625

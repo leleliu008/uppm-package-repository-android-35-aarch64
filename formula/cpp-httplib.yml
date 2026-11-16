@@ -1,5 +1,5 @@
 summary: C++ header-only HTTP/HTTPS server and client library
 webpage: https://github.com/yhirose/cpp-httplib
 version: 0.66.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/cpp-httplib-0.66.0-android-aarch64.release.tar.xz
-bin-sha: cd6179ccc1672c83da4ce35c5c20ffa55c13272ad8e2c01fcee685d7284d3b3c
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/cpp-httplib-0.66.0-android-aarch64.release.tar.xz
+bin-sha: 74235b3b4e6d814329994c22f3d9d9fe244aab00055aa7e384d7a9feda4a868a

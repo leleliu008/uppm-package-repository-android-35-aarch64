@@ -1,5 +1,5 @@
 summary: An open source library to extract data from Excel .xls files
 webpage: https://www.gaia-gis.it/fossil/freexl/index
 version: 2.0.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/libfreexl-2.0.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: 98dff6849cb817dc6afc221c0fc59ff241ab57c79c702a610ce4108c31159bd1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libfreexl-2.0.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 5527f804aac9171af3e8d0f3d0277f05168b2d1cd0edf812b543108670004600

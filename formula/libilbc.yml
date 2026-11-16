@@ -1,5 +1,5 @@
 summary: Packaged version of iLBC codec from the WebRTC project
 webpage: https://github.com/TimothyGu/libilbc
 version: 3.0.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/libilbc-3.0.4-android-35-arm64-v8a.release.tar.xz
-bin-sha: b1540ffc42bd06a0387daf474589fa43beaaec7581edd46e645b5db5004fa512
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libilbc-3.0.4-android-35-arm64-v8a.release.tar.xz
+bin-sha: 3ca1c16b57356f7fa1a078883ac5137832d2f653e9babadfc75ff98754e1dfd9

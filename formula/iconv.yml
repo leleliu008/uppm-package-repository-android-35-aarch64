@@ -1,5 +1,5 @@
 summary: A command-line utility for converting text from one encoding to another
 webpage: https://www.gnu.org/software/libiconv
 version: 1.19.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/iconv-1.19.1-android-35-arm64-v8a.release.tar.xz
-bin-sha: c1570d524bac61b549f8dbc589299b63d6ef45b3f1856bfe65fa47218503965d
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/iconv-1.19.1-android-35-arm64-v8a.release.tar.xz
+bin-sha: 4a2a1fabdf56bd0972619678c982aa7f587fad923e52ff07459777009bad7fd4

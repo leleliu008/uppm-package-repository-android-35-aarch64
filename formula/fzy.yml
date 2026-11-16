@@ -1,5 +1,5 @@
 summary: A fast, simple fuzzy text selector with an advanced scoring algorithm
 webpage: https://github.com/jhawthorn/fzy
 version: 1.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/fzy-1.1-android-35-arm64-v8a.release.tar.xz
-bin-sha: 090dac3cc7027a9ef7119e7b075346680ddbd0bc46587a9c9be6e6c9bbd33da6
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/fzy-1.1-android-35-arm64-v8a.release.tar.xz
+bin-sha: 39c39d59991248fe9bd3a56630ba2c2159d5a067cc601113b5b8528dd837f516

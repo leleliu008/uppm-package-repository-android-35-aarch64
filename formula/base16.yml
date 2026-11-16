@@ -1,5 +1,5 @@
 summary: base16 encoder and decoder
 webpage: https://github.com/leleliu008/C-examples
-version: 2026.11.15
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/base16-2026.11.15-android-35-arm64-v8a.release.tar.xz
-bin-sha: c00f84fe24fab3a3fc2a1946afc2d08b10319331489e1e057244e80af66f4bda
+version: 2026.11.16
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/base16-2026.11.16-android-35-arm64-v8a.release.tar.xz
+bin-sha: bb3fa36dfc50e737b800004edb9f77c96250bd56f49a4daf35cd63cd4e87db82

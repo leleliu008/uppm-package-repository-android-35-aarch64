@@ -1,5 +1,5 @@
 summary: A code snippet manager for your terminal
 webpage: https://github.com/maaslalani/nap
 version: 0.1.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/nap-0.1.1-android-35-arm64-v8a.release.tar.xz
-bin-sha: 61a6c55273f54040f853579c75b02c285e734dcedc4890512539c1d4cdabbe44
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/nap-0.1.1-android-35-arm64-v8a.release.tar.xz
+bin-sha: c8e816a5e34dc2b939cd692702ca7e64b424274f0ec61d79943c4d24710e3419

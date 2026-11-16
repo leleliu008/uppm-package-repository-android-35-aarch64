@@ -1,5 +1,5 @@
 summary: A parallel implementation of gzip for modern multi-processor, multi-core machines
 webpage: https://zlib.net/pigz/
 version: 2.8
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/pigz-2.8-android-35-arm64-v8a.release.tar.xz
-bin-sha: 4fc7ed18a4235c2cb5ad1ce291d03455a9122af047c31214ad2ca00369e9d925
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/pigz-2.8-android-35-arm64-v8a.release.tar.xz
+bin-sha: 02a2345c7ed0fa6ed005623810dea92ed8d4b8c4ba38e8d515e2b8353c0a4289

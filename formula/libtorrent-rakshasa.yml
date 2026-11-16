@@ -1,5 +1,5 @@
 summary: BitTorrent library with a focus on high performance
 webpage: https://github.com/rakshasa/libtorrent
 version: 0.16.28
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/libtorrent-rakshasa-0.16.28-android-35-arm64-v8a.release.tar.xz
-bin-sha: 97c66e461f2f161311afab20354dbb59f636afa0ce75e0fd88c3187fefe05981
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libtorrent-rakshasa-0.16.28-android-35-arm64-v8a.release.tar.xz
+bin-sha: c6048fb6f6ff3d12e545344e7b2fa0aae5b24560b9d8aa975247af180366ffe8

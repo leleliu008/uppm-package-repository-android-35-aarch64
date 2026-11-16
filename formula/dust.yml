@@ -1,5 +1,5 @@
 summary: A more intuitive version of du(1) in rust
 webpage: https://github.com/bootandy/dust
 version: 1.2.7
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/dust-1.2.7-android-35-arm64-v8a.release.tar.xz
-bin-sha: 8656fbe40ef28401b33840f41d7d60294a962021c860b49b61aa536d4a16c2b2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/dust-1.2.7-android-35-arm64-v8a.release.tar.xz
+bin-sha: 05121376f3c8c81199fc04e699665019563fc155e0177b44479087c4354a47ca

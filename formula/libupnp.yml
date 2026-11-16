@@ -1,5 +1,5 @@
 summary: Portable UPnP development kit
 webpage: https://pupnp.sourceforge.io/
 version: 22.2.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/libupnp-22.2.2-android-35-arm64-v8a.release.tar.xz
-bin-sha: 7bbe4c73711c44f29f2d52211b1ab4b7cf20a4482f032fdc7d72d45aa2630e0f
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libupnp-22.2.2-android-35-arm64-v8a.release.tar.xz
+bin-sha: e3eee0268ad0dc00a9e582f8b857816c4f853dd1ec27737ba26c656e93122e48

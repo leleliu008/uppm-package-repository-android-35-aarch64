@@ -1,5 +1,5 @@
 summary: A fast, async, resource-friendly link checker
 webpage: https://github.com/lycheeverse/lychee
 version: 0.24.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/lychee-0.24.2-android-35-arm64-v8a.release.tar.xz
-bin-sha: c6d2aa2111304293a236814baeeb6bae5e8500208ec686d098fa484025544385
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/lychee-0.24.2-android-35-arm64-v8a.release.tar.xz
+bin-sha: 47e6a8d75fb49e7a6af4a2215d8df2fc5ac513d28d1d141b89de6b0f1c9b9385

@@ -1,5 +1,5 @@
 summary: Vulnerability scanner for container images, file systems, and Git repos
 webpage: https://trivy.dev/
 version: 0.76.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/trivy-0.76.2-android-35-arm64-v8a.release.tar.xz
-bin-sha: 72684a9e47be1ce77ba000814259c6e54a1bb6a1cbc392d19fcc949bb8fb8e2f
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/trivy-0.76.2-android-35-arm64-v8a.release.tar.xz
+bin-sha: 9b0444b6d44aa33348ba79b7d3f2a8ca11ead24f23f82d59da9ed186933a750c

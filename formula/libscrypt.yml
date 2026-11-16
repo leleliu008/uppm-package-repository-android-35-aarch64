@@ -1,5 +1,5 @@
 summary: A shared library that implements scrypt() functionality - a replacement for bcrypt()
 webpage: https://github.com/technion/libscrypt
 version: 1.22
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/libscrypt-1.22-android-35-arm64-v8a.release.tar.xz
-bin-sha: d514d468c159ade25385d0b4b77c1b80374e0a880fae0ab50bfc5a0d5f2172ea
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libscrypt-1.22-android-35-arm64-v8a.release.tar.xz
+bin-sha: 96a2f0c98246deb50324f912c2e9a0c317fc4f1ce5d7f585faec25d5237395e6

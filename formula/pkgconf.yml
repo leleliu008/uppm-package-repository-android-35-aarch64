@@ -1,5 +1,5 @@
 summary: Reimplementation of pkg-config
 webpage: https://github.com/pkgconf/pkgconf
 version: 3.0.10
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/pkgconf-3.0.10-android-35-arm64-v8a.release.tar.xz
-bin-sha: 5ed7cca7c27c3e7728f999b6c6951d38330ac8adbbb61bf6dbf6df97038baee1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/pkgconf-3.0.10-android-35-arm64-v8a.release.tar.xz
+bin-sha: b70647b9a6966a6bc36d5c6841bcee4fcf432d384663e8c9adf6dfb2c307c7d8

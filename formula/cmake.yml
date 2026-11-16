@@ -1,5 +1,5 @@
 summary: Cross-platform make
 webpage: https://www.cmake.org/
 version: 4.4.5
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/cmake-4.4.5-android-35-arm64-v8a.release.tar.xz
-bin-sha: d3ff226a5cbc0be8e61e2d9488ee1be31648f95731686496cb22e94b39dd9eb4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/cmake-4.4.5-android-35-arm64-v8a.release.tar.xz
+bin-sha: 3ed6f601dbf910c1cf952c61c3e3d0b384b859bc9cec060ebc1a44e6437bd1dd

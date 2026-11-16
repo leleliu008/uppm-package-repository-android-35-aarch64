@@ -1,5 +1,5 @@
 summary: Terminal Epub reader
 webpage: https://github.com/aeosynth/bk
 version: 0.6.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/bk-0.6.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: 38d92aed024738fa0cab8e9f68cc1a10265c36530ec60d4380dbabc1634759f9
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/bk-0.6.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 679ff0352c9194602a1b13f34cbe6fba167e967ccde28f48244cf130aaab243f

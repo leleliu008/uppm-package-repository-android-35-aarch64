@@ -1,5 +1,5 @@
 summary: C++ geography library
 webpage: https://geographiclib.sourceforge.io/
 version: r2.7
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/geographiclib-r2.7-android-35-arm64-v8a.release.tar.xz
-bin-sha: f1c9a84edc2407b66a1d67250afc3752a0990f92364277461b92b568ef5fefb3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/geographiclib-r2.7-android-35-arm64-v8a.release.tar.xz
+bin-sha: 00e13387e71e644506c6eb9aa5a291d6231f48bcdc26ff2673d540e142874378

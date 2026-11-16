@@ -1,5 +1,5 @@
 summary: Friendly and expressive shell
 webpage: https://elv.sh/
 version: 0.21.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/elvish-0.21.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: 726525f4f2c6ef2c8577c3bf32705a53c65baf44e139ebc4f2ffc37715bb3f06
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/elvish-0.21.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 44b5ab8d016261641c1492d1de638d34de6841fc82369164791174798ae47892

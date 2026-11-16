@@ -1,5 +1,5 @@
 summary: A portable ASCII art graphics library
 webpage: https://aa-project.sourceforge.io/aalib/
 version: 1.4rc5
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/aalib-1.4rc5-android-35-arm64-v8a.release.tar.xz
-bin-sha: 9a4bab89863cb69a7e3635b84d4b195bd592241cee763b1447b7dbb9c819f13b
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/aalib-1.4rc5-android-35-arm64-v8a.release.tar.xz
+bin-sha: f4ea20281c775369022c86b957ea490ec9a15b634f007d426d58a80355af11a2

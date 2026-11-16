@@ -1,5 +1,5 @@
 summary: C library for multiple-precision floating-point computations
 webpage: https://www.mpfr.org/
 version: 4.2.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/libmpfr-4.2.2-android-35-arm64-v8a.release.tar.xz
-bin-sha: e0267dfac2114099faeb5c8e49d623cb2877cda4ebf162078d7fcc2b494e8d3e
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libmpfr-4.2.2-android-35-arm64-v8a.release.tar.xz
+bin-sha: 7983ef35a26e60f2c5cab3295fc0e6370d6b43fe721ac05ad21144175a3eb673

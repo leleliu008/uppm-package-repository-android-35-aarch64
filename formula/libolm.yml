@@ -1,5 +1,5 @@
 summary: An implementation of the Double Ratchet cryptographic ratchet
 webpage: https://gitlab.matrix.org/
 version: 3.2.16
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/libolm-3.2.16-android-35-arm64-v8a.release.tar.xz
-bin-sha: f150776fe421a6d365ff7a7fe1d08db806841eb195d5113924612d7074c97827
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libolm-3.2.16-android-35-arm64-v8a.release.tar.xz
+bin-sha: c3b9029483204ac60ac4e17fc6ef0010b93a57dc2307aa969aa25cb07e5a214d

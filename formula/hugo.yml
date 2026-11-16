@@ -1,5 +1,5 @@
 summary: A fast and flexible static site generator
 webpage: https://gohugo.io/
 version: 0.169.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/hugo-0.169.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: db6fbfecaf362b2953287892c2ee70edbbc56995bd4952e5f5d5ddb1c488fccd
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/hugo-0.169.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 1fafe63ca04bbbc6a06c8dd0725b38c098651b4f0251a35064e78a19d15b0f87

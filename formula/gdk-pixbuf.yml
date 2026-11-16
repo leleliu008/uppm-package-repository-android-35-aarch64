@@ -1,5 +1,5 @@
 summary: Toolkit for image loading and pixel buffer manipulation
 webpage: https://gtk.org/
 version: 2.44.8
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/gdk-pixbuf-2.44.8-android-35-arm64-v8a.release.tar.xz
-bin-sha: 411fb105c9907fee847c102b9dea04d3a0cdcca8dd16eca161988a28a05aec95
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/gdk-pixbuf-2.44.8-android-35-arm64-v8a.release.tar.xz
+bin-sha: 684a7ac120f56e585141f543b9840011931c985c88d83ca7c607eedf6778381c

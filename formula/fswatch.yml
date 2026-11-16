@@ -1,5 +1,5 @@
 summary: Monitor a directory for changes and run a shell command
 webpage: https://github.com/emcrisostomo/fswatch
 version: 1.22.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/fswatch-1.22.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: f2b6b7e3abec22da20d8f9788e506ee59ff528a697741c0f9ebfbc2926245477
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/fswatch-1.22.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: a5588ecb42657688818d9d538c974c0c5af7ed0b08a421fec4ad3110be795930

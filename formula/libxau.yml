@@ -1,5 +1,5 @@
 summary: A Sample Authorization Protocol for X
 webpage: https://xorg.freedesktop.org/
 version: 1.0.12
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/libxau-1.0.12-android-35-arm64-v8a.release.tar.xz
-bin-sha: a0381c0e64c764f920789d6e6461fbb5c9a1a9e54d46e38c4a92596f0bfb34f2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libxau-1.0.12-android-35-arm64-v8a.release.tar.xz
+bin-sha: 30176678fe8121c8fc35dc6700a00ef22b44602c54f659fdf4ee18abaae406be

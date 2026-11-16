@@ -1,5 +1,5 @@
 summary: CPU INFOrmation library
 webpage: https://github.com/pytorch/cpuinfo
-version: 2026.11.15
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/cpuinfo-2026.11.15-android-35-arm64-v8a.release.tar.xz
-bin-sha: fe753d143c51e26787563400ef58853996936e912a8bc6e72ad497f1f9d225b9
+version: 2026.11.16
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/cpuinfo-2026.11.16-android-35-arm64-v8a.release.tar.xz
+bin-sha: f851896b54f3c76ec525374821e42c5880019e36fc24e4f23ce312011eb2cbd5

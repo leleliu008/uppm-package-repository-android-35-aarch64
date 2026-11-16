@@ -1,5 +1,5 @@
 summary: A high performance JSON library written in ANSI C
 webpage: https://github.com/ibireme/yyjson
 version: 0.13.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/libyyjson-0.13.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: 580cda74253142e7bb807935594f73d49607e61ca6deafd3cc5d665fea786348
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libyyjson-0.13.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 7d4766c53806f330f14ca9a2f660e8609a9b50f9d112009797546b1a2c9b2726

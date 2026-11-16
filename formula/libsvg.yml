@@ -1,5 +1,5 @@
 summary: Library for SVG files
 webpage: https://cairographics.org/
 version: 0.1.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/libsvg-0.1.4-android-35-arm64-v8a.release.tar.xz
-bin-sha: 590efb947fef39bacec8a6182f29fb705b60e6267f9e6df25fd536c80cd226bb
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libsvg-0.1.4-android-35-arm64-v8a.release.tar.xz
+bin-sha: 1b74b5f9c479ec41f215ba443f3cb9c542352b1f12fa73e36badf17d3092de16

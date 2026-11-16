@@ -1,5 +1,5 @@
 summary: Rainbows and unicorns in your console
 webpage: https://github.com/jaseg/lolcat
 version: 1.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/lolcat-1.2-android-35-arm64-v8a.release.tar.xz
-bin-sha: 0e83bf8accb9a8fccc0e40eb63591bd0df2ed6fc900d5d2004c912e8bdde607f
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/lolcat-1.2-android-35-arm64-v8a.release.tar.xz
+bin-sha: fc34eca7ee61f81c94d72aab49e7eb5cd8b791b1441c8f9d43c6cdbbb8334eae

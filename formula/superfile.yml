@@ -1,5 +1,5 @@
 summary: Modern and pretty fancy file manager for the terminal
 webpage: https://github.com/yorukot/superfile
 version: 1.6.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/superfile-1.6.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: 26136bc55b2e93144860fbf9940f52bdabd084544ae5e6cc0d690abff85a897a
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/superfile-1.6.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: eb4e5f8aeae56fad5b9b77d7a11779b55d40e80e2f9b584ad224fa1279544f4c

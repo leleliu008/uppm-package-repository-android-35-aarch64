@@ -1,5 +1,5 @@
 summary: Fish-like, POSIX-compatible shell
 webpage: https://github.com/nuta/nsh
 version: 0.4.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/nsh-0.4.2-android-35-arm64-v8a.release.tar.xz
-bin-sha: 0dbfdcdd2bbdf55d468b06d6cc048c84054387d67797e3bb973081cd07ca23b3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/nsh-0.4.2-android-35-arm64-v8a.release.tar.xz
+bin-sha: 07f69ed5ff7b3d1ce77e69ac57629c0a15effd909ec5c41de31b2b834d63359d

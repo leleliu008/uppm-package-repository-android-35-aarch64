@@ -1,5 +1,5 @@
 summary: UTF-8 with C++ in a Portable Way
 webpage: https://github.com/nemtrif/utfcpp
 version: 4.2.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/utf8cpp-4.2.1-android-aarch64.release.tar.xz
-bin-sha: c2dbd7ffb2138213108b2d2acef650d4504385cbf8c9bfc4368fedd2f27d31b9
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/utf8cpp-4.2.1-android-aarch64.release.tar.xz
+bin-sha: 4516e9c7f79899250988c03199f58b914c8b9ddf822c74da9a7d97184dd51eab

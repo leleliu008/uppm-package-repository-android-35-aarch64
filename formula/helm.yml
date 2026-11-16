@@ -1,5 +1,5 @@
 summary: Kubernetes package manager
 webpage: https://helm.sh/
 version: 4.3.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/helm-4.3.2-android-35-arm64-v8a.release.tar.xz
-bin-sha: 8c109fdb57d78f90b681b383ff4e4f3049e7bc507fef808bdaaa8f22f690558a
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/helm-4.3.2-android-35-arm64-v8a.release.tar.xz
+bin-sha: 5c7f41be5a74fb646f0535beddba60946c846c504b76a7c745f79ddbe06e303e

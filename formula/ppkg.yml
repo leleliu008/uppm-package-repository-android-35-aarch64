@@ -1,5 +1,5 @@
 summary: A portable package manager for Unix-like systems
 webpage: https://github.com/leleliu008/ppkg
 version: 0.1000.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/ppkg-0.1000.2-android-35-arm64-v8a.release.tar.xz
-bin-sha: 1fbe0826a709587ab59d581f263f130acad86c705277ee103378f7aa77e7d8eb
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/ppkg-0.1000.2-android-35-arm64-v8a.release.tar.xz
+bin-sha: 133fd3a32594f37b0aad5181179e7e1bdd810055de2ca3986858b19a89b6b591

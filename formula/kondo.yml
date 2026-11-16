@@ -1,5 +1,5 @@
 summary: Save disk space by cleaning non-essential files from software projects
 webpage: https://github.com/tbillington/kondo
 version: 0.9
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/kondo-0.9-android-35-arm64-v8a.release.tar.xz
-bin-sha: 4491468eafc20f884bc449dd1cc7c8cf91fa0c5e8dde45b8db74853a9597bb37
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/kondo-0.9-android-35-arm64-v8a.release.tar.xz
+bin-sha: 29b9fc30c5068664ed750a496b4692d865505296998bec00a850a64b86eae274

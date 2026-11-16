@@ -1,5 +1,5 @@
 summary: A command-line tool to show your currently running system information
 webpage: https://github.com/leleliu008/sysinfo
-version: 2026.11.15
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/sysinfo-2026.11.15-android-35-arm64-v8a.release.tar.xz
-bin-sha: d83e309b1783de15af24051fcf1d55c657a4450050f0c1e434cd223fc9256181
+version: 2026.11.16
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/sysinfo-2026.11.16-android-35-arm64-v8a.release.tar.xz
+bin-sha: d9d7fe8cfeed6542bee6f5588462cfc4dc3fcfad72034e3163bebb04c2c68211

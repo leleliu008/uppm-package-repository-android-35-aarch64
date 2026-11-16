@@ -1,5 +1,5 @@
 summary: A command-line utility for producing 2D and 3D plots
 webpage: http://www.gnuplot.info/
 version: 6.0.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/gnuplot-6.0.6-android-35-arm64-v8a.release.tar.xz
-bin-sha: d7c1fb7afa6f9f357b1cd45022ceb472bd3824909171dec17c1e371d5271d364
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/gnuplot-6.0.6-android-35-arm64-v8a.release.tar.xz
+bin-sha: 14047c1bf78d1b698dc9c3b1da32b5ffc1cac914dbfc74543c05b4952c9521db

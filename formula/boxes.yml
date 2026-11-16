@@ -1,5 +1,5 @@
 summary: Draw boxes around text
 webpage: https://boxes.thomasjensen.com/
 version: 2.3.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/boxes-2.3.2-android-35-arm64-v8a.release.tar.xz
-bin-sha: 0a984904c70340c04a6e6669e7902ff0c79c95a5d68865df5cc43e1f15e11964
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/boxes-2.3.2-android-35-arm64-v8a.release.tar.xz
+bin-sha: 50a4451211c72612b850567b7eb3e428380cbcc47f5dec88f0f18b8883b6da32

@@ -1,5 +1,5 @@
 summary: C++20-like span for C++98, C++11 and later in a single-file header-only library
 webpage: https://github.com/martinmoene/span-lite
 version: 0.11.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.15.1/span-lite-0.11.0-android-aarch64.release.tar.xz
-bin-sha: fd6641f2d68e40c7525df433b7693736626010e7b008ac3ac113de75af5cc966
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/span-lite-0.11.0-android-aarch64.release.tar.xz
+bin-sha: 8dfa606fdaeb3c6d938cdc1dc17bc3ab50297df9640b11523a62b0e47605010e
