@@ -1,5 +1,5 @@
 summary: C++ library to benchmark code snippets, similar to unit tests
 webpage: https://github.com/google/benchmark
 version: 1.8.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/google-benchmark-1.8.4-android-35-arm64-v8a.release.tar.xz
-bin-sha: 86452ed50172b089c3fbed618fc4b55cfb556417ff8df9f67926482867d1df80
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/google-benchmark-1.8.4-android-35-arm64-v8a.release.tar.xz
+bin-sha: 47fbbfe24854c8ca1c599d7628e258ac749869c6412d0e0aef3b7834f8050f3b

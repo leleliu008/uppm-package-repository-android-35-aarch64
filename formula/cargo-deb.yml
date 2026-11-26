@@ -1,5 +1,5 @@
 summary: A cargo subcommand that generates Debian packages from information in Cargo.toml
 webpage: https://github.com/kornelski/cargo-deb
 version: 3.8.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/cargo-deb-3.8.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: e391cd628ed7b1b86772238eb7934efe0861e0f5fd68e4875ef50b689b98ad2c
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/cargo-deb-3.8.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: d127137060ba6a37323b3b77c2e218c605d7524cf7999e30c61ab08580058a47

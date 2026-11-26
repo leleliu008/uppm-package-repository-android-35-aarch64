@@ -1,5 +1,5 @@
 summary: Lynx-like WWW browser that supports tables, menus, etc
 webpage: https://links.twibright.com/
 version: 2.30
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/links-2.30-android-35-arm64-v8a.release.tar.xz
-bin-sha: d8d3fe4ab0541cf5de80d03fe3eb5019765ca7ae831f4a2a604dec5401d7a825
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/links-2.30-android-35-arm64-v8a.release.tar.xz
+bin-sha: c68ab0f12adb4aaa7d9b335ba0d73cf0525288fc03e682ce887fab80eb311b52

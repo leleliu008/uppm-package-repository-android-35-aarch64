@@ -1,5 +1,5 @@
 summary: A command-line tool for QR Code generation
 webpage: https://fukuchi.org/works/qrencode
 version: 4.1.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/qrencode-4.1.1-android-35-arm64-v8a.release.tar.xz
-bin-sha: c84b182d8a10595370f9aa49a36e5a35274c42bbb764ab20e912d28a8b28cc4e
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/qrencode-4.1.1-android-35-arm64-v8a.release.tar.xz
+bin-sha: e6b515bd8708b0778a0b9208b09a3f285ee5a6c0ed1e7d258ec3fad8c92cdb70

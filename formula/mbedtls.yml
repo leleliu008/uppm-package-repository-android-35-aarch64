@@ -1,5 +1,5 @@
 summary: Cryptographic and SSL/TLS library
 webpage: https://tls.mbed.org
-version: 4.2.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/mbedtls-4.2.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: 60c81c105bd943f28abd96f0cd802cd9ab171bcf8cd66f324cd653211e139183
+version: 4.3.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/mbedtls-4.3.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 51b12772a94f54b150ef9d8212efec88fe0315c5a20b69b999e94e77149bbb70

@@ -1,5 +1,5 @@
 summary: A command-line tool to perform various operations on string
 webpage: https://github.com/abhimanyu003/sttr
 version: 0.2.30
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/sttr-0.2.30-android-35-arm64-v8a.release.tar.xz
-bin-sha: bf7215d6cdffbafae6a55054372e76c32ee10b850b38a48f247e7081b49f7b81
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/sttr-0.2.30-android-35-arm64-v8a.release.tar.xz
+bin-sha: ce9d1c0419de58176b05acc744bc352c230e6bfd6d0da6614cf444992811894c

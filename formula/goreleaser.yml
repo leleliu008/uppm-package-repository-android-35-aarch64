@@ -1,5 +1,5 @@
 summary: Deliver Go binaries as fast and easily as possible
 webpage: https://goreleaser.com/
-version: 2.20.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/goreleaser-2.20.2-android-35-arm64-v8a.release.tar.xz
-bin-sha: 3da1958f02f2b4b8cfd001c785570f1487a2b218f63957b203acfa2fc24c0582
+version: 2.20.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/goreleaser-2.20.3-android-35-arm64-v8a.release.tar.xz
+bin-sha: 56397fbfdfad3a5ee781a323ddb1eed6e930670051abb3d3c98799e0a8d7e64c

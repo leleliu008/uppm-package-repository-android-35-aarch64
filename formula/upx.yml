@@ -1,5 +1,5 @@
 summary: A free, secure, portable, extendable, high-performance executable packer for several executable formats
 webpage: https://upx.github.io/
 version: 5.3.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/upx-5.3.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: a461be9621fd952e2c232447fd1f43dee91379dadcc39c14a164400c22abd459
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/upx-5.3.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: db182445c8b79ec5cc01a78b5445cf51c65281b782bdd1a2843abbf1f66d5157

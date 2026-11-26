@@ -1,5 +1,5 @@
 summary: hexdump library and cli
 webpage: https://www.25thandclement.com/~william/projects/hexdump.c.html
 version: 20181215
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libhexdump-20181215-android-35-arm64-v8a.release.tar.xz
-bin-sha: 54e052c7ba8359539cefee676a12d9346eb06e1c4359759003dad01079afee74
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/libhexdump-20181215-android-35-arm64-v8a.release.tar.xz
+bin-sha: 4ff52b301fc810f158cacb5f65816f3a34bc8c287ae0055f0312d16fdff1cc22

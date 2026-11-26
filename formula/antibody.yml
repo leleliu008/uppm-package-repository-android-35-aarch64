@@ -1,5 +1,5 @@
 summary: Shell plugin manager
 webpage: https://getantibody.github.io/
 version: 6.1.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/antibody-6.1.1-android-35-arm64-v8a.release.tar.xz
-bin-sha: f317d51a3d6d14813e793bb596d597659dda01e023f09a10a344111a816db961
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/antibody-6.1.1-android-35-arm64-v8a.release.tar.xz
+bin-sha: 51f8fc4202855c3010cdd6c49ac682a7be04d47f6d1dd360ec3074dd62aa9b05

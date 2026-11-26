@@ -1,5 +1,5 @@
 summary: TUI for logs from journalctl, file system, Docker, Podman and Kubernetes pods
 webpage: https://github.com/Lifailon/lazyjournal
 version: 0.8.7
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/lazyjournal-0.8.7-android-35-arm64-v8a.release.tar.xz
-bin-sha: 2701ea03027ebcc2fc4857055eabc0c0ecb99b34466216f0ec941595cb4cf9e8
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/lazyjournal-0.8.7-android-35-arm64-v8a.release.tar.xz
+bin-sha: 84698bb3b4931ca7f8bc2519dc5aeca5b3ffb196404d4f45c73a5c32794b611b

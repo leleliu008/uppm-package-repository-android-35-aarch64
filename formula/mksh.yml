@@ -1,5 +1,5 @@
 summary: MirBSD Korn Shell
 webpage: https://mbsd.evolvis.org/mksh.htm
 version: 59c
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/mksh-59c-android-35-arm64-v8a.release.tar.xz
-bin-sha: 33474619fe8141e93cfe26db0c3b2e0773700fbd4023a165436d79056b6f0fbf
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/mksh-59c-android-35-arm64-v8a.release.tar.xz
+bin-sha: 7badf10ddb2694d7eb72d48da23af1c60088a88a9cc7094993578c4b30b258bc

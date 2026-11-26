@@ -1,5 +1,5 @@
 summary: X.Org Interface to the X Window System protocol
 webpage: https://xorg.freedesktop.org/
 version: 1.17.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libxcb-1.17.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: 1cdc04ffb71c3bc7db3a965b87bd05f734e5a371a80c9c69a534fa0486fc65e2
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/libxcb-1.17.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: fef430049f34a941c6faff9b7b4872173447fe2022f0278f3da5f60cea7c5770

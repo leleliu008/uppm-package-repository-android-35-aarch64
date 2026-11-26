@@ -1,5 +1,5 @@
 summary: Classic UNIX line editor
 webpage: https://www.gnu.org/software/ed
 version: 1.22.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/ed-1.22.6-android-35-arm64-v8a.release.tar.xz
-bin-sha: a3611187b32995019fb90bda9ea5cb6b657de31c8cce6eee522a49484e5c6625
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/ed-1.22.6-android-35-arm64-v8a.release.tar.xz
+bin-sha: 2ea22c07112f752d4372c1118f9baf17f0e1b07c0b9add52c2a945e72e8d439a

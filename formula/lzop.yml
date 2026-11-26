@@ -1,5 +1,5 @@
 summary: A file compressor
 webpage: https://www.lzop.org/
 version: 1.04
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/lzop-1.04-android-35-arm64-v8a.release.tar.xz
-bin-sha: ed61387e1b850bdb9f61e7e482d622523b3f8188031e16d74fd8928aa6f24630
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/lzop-1.04-android-35-arm64-v8a.release.tar.xz
+bin-sha: de6d23f6e3a494325db843c43762f8e878495348280f7e568ffd84177d435732

@@ -1,5 +1,5 @@
 summary: Pure Go web server with Lua, Markdown, HTTP/2 and template support
 webpage: https://github.com/xyproto/algernon
-version: 1.17.13
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/algernon-1.17.13-android-35-arm64-v8a.release.tar.xz
-bin-sha: c4bb0883588b645667ea880371b55070220b6f8773e9d0c791edfbfbd19e4b02
+version: 1.18.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/algernon-1.18.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 5ae2318b8d56f8ae2bd14a1955f91e80ef0f00a40d6c88fec3319ab4371636a6

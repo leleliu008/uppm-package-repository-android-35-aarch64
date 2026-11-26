@@ -1,5 +1,5 @@
 summary: An extremely fast Python package and project manager, written in Rust
 webpage: https://github.com/astral-sh/uv
-version: 0.13.8
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/uv-0.13.8-android-35-arm64-v8a.release.tar.xz
-bin-sha: 2cddc0d7690f968ad830fa7075eafa192d34592dfbe166e8d1ebe45601249fdc
+version: 0.13.9
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/uv-0.13.9-android-35-arm64-v8a.release.tar.xz
+bin-sha: 8947b3c5185e857acb98296f0db4666ec67f3a4a0178a65e128d9964fa011c60

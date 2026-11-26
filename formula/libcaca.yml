@@ -1,5 +1,5 @@
 summary: Convert pixel information into colored ASCII art
 webpage: http://caca.zoy.org/wiki/libcaca
 version: 0.99.beta20
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libcaca-0.99.beta20-android-35-arm64-v8a.release.tar.xz
-bin-sha: 456b22b531ef6955ad36268585230f0b9b2e2073c6ef6740570516f4d30d4a2c
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/libcaca-0.99.beta20-android-35-arm64-v8a.release.tar.xz
+bin-sha: 95b05478a36aaa8240a22416968d027d10502a94df354a2b385be7fbbba7c9ea

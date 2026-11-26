@@ -1,5 +1,5 @@
 summary: CSS parsing and manipulation toolkit for GNOME
 webpage: https://gitlab.gnome.org/GNOME/libcroco
 version: 0.6.13
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libcroco-0.6.13-android-35-arm64-v8a.release.tar.xz
-bin-sha: cf861184e629906df57b757513ecde8ec38dde61722c9899f9bd142796efd985
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/libcroco-0.6.13-android-35-arm64-v8a.release.tar.xz
+bin-sha: 6490760f4f75693059ea3597f5b37a20b6d590e37ff34f8b14c6ba4423971dc8

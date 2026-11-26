@@ -1,5 +1,5 @@
 summary: A fast image processing library with low memory needs
 webpage: https://github.com/libvips/libvips
 version: 8.18.7
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libvips-8.18.7-android-35-arm64-v8a.release.tar.xz
-bin-sha: afd01ddce4d93e9f4227fa494eedc7a79433a43d70d2cfe5a34fbf2094fdbcb8
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/libvips-8.18.7-android-35-arm64-v8a.release.tar.xz
+bin-sha: 31b550d7af45636d7c93ed22eab41507dfcc004d5aee7c3704b54f9a7a589a4f

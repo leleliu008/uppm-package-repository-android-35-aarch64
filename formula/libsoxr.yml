@@ -1,5 +1,5 @@
 summary: High quality, one-dimensional sample-rate conversion library
 webpage: https://sourceforge.net/projects/soxr/
 version: Source
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libsoxr-Source-android-35-arm64-v8a.release.tar.xz
-bin-sha: f1d5eedb19a71cf7e1a3e63e22c65add8a891df9934b2f85276946e14c483129
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/libsoxr-Source-android-35-arm64-v8a.release.tar.xz
+bin-sha: 164b770865b77c4ea2a82fda18e51e1b3b30b4430098cb7f7c07a38ef99eb414

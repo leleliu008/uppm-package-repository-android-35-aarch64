@@ -1,5 +1,5 @@
 summary: A command-line tool for converting bitmaps to vector graphics
 webpage: https://potrace.sourceforge.io/
 version: 1.16
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/potrace-1.16-android-35-arm64-v8a.release.tar.xz
-bin-sha: f14c8060d8549f537d04cfe0b321016ca96c0763417285dba9bda084561e0c57
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/potrace-1.16-android-35-arm64-v8a.release.tar.xz
+bin-sha: d9a4f6104d187ff10e686d6bef6383949a7a912e8f7e5e2ac82059c94040d020

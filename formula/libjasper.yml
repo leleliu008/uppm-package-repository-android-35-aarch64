@@ -1,5 +1,5 @@
 summary: Library for manipulating JPEG-2000 images
 webpage: https://ece.engr.uvic.ca/~frodo/jasper/
 version: 4.2.9
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libjasper-4.2.9-android-35-arm64-v8a.release.tar.xz
-bin-sha: 6176e011f01d864ac0f0d48d789b965d5ab67d442284cc13b1b0b4bafd36d45e
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/libjasper-4.2.9-android-35-arm64-v8a.release.tar.xz
+bin-sha: ab47ebc45c4e8f7c9e71a024cce5922cc4fe1ed9a6eac2e56d72c4217a188d38

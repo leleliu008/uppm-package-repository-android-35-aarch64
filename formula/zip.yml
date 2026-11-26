@@ -1,5 +1,5 @@
 summary: Compression and file packaging/archive utility
 webpage: https://infozip.sourceforge.io/Zip.html
 version: 3.0.13
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.2/zip-3.0.13-android-35-arm64-v8a.release.tar.xz
-bin-sha: 7d39c6f2503475107d530abd75fce1a5cff50434d9e46a119b1571c7a0a27b8f
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.2/zip-3.0.13-android-35-arm64-v8a.release.tar.xz
+bin-sha: a77129acdee295b4968cfe2caad46f948fee35db6eae75f5be82ac7fdb21bd9c

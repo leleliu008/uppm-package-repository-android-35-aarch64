@@ -1,5 +1,5 @@
 summary: TIFF library
 webpage: https://libtiff.gitlab.io/libtiff
 version: 4.7.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libtiff-4.7.2-android-35-arm64-v8a.release.tar.xz
-bin-sha: 9544eb5072a935683ee73c2a733c560726305a037f806325e1b1b8466111ae6e
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/libtiff-4.7.2-android-35-arm64-v8a.release.tar.xz
+bin-sha: d930e28af4720a25d1d638cde0c1317cafec1984735adcaffea731e0eaa5e831

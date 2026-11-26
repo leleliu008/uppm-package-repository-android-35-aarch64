@@ -1,5 +1,5 @@
 summary: A command-line tool for extracting zip-compressed archives(.zip files)
 webpage: https://infozip.sourceforge.io/UnZip.html
 version: 6.0.28
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/unzip-6.0.28-android-35-arm64-v8a.release.tar.xz
-bin-sha: 7fb641280427fd0917ec6e90463743796528e46d693ee89deb102e0ef786a7c5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/unzip-6.0.28-android-35-arm64-v8a.release.tar.xz
+bin-sha: b2a69bf7c8b6448102f7b9e192e133fb14c2edb41fcaea44a51f40cb60ff62ff

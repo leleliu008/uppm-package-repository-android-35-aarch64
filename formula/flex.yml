@@ -1,5 +1,5 @@
 summary: The Fast Lexical Analyzer, generates Scanners (tokenizers)
 webpage: https://github.com/westes/flex
 version: 2.6.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/flex-2.6.4-android-35-arm64-v8a.release.tar.xz
-bin-sha: 26a263105df3d66442b1597ccbdefea12fef96f7a85e768432c93b35d8af1a2c
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/flex-2.6.4-android-35-arm64-v8a.release.tar.xz
+bin-sha: 731e28d5dd9ccc85bf77b001ca799c76c3725565771e2a9d1dd080da87c8450a

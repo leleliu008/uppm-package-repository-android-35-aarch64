@@ -1,5 +1,5 @@
 summary: Cryptography and SSL/TLS Toolkit
 webpage: https://www.openssl.org/
 version: 1.1.1w
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libopenssl-1.1.1w-android-35-arm64-v8a.release.tar.xz
-bin-sha: 728ede3d00e8f796aaf89adcfdc6d560ad044c3a12ba4a914c92014781781b2a
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/libopenssl-1.1.1w-android-35-arm64-v8a.release.tar.xz
+bin-sha: 94c8768670e7752f7ebf158979dcfdf877880ccfcaacda7272b8d5fdd0acaaa6

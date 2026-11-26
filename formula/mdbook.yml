@@ -1,5 +1,5 @@
 summary: A command-line tool to create modern online books from Markdown files
 webpage: https://rust-lang.github.io/mdBook/
 version: 0.5.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/mdbook-0.5.4-android-35-arm64-v8a.release.tar.xz
-bin-sha: 47d91ef02dec655ac02bd1d5fd6a239d03242b1ab0d3aac0c787d3416ea1feb7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/mdbook-0.5.4-android-35-arm64-v8a.release.tar.xz
+bin-sha: 29728cf77bb331c673a6acd2ccfff361aba9c94f1a88dd8fbed2fb1ec84fc469

@@ -1,5 +1,5 @@
 summary: Terminal multiplexer
 webpage: https://tmux.github.io
 version: 3.8
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/tmux-3.8-android-35-arm64-v8a.release.tar.xz
-bin-sha: 85134957dc3a98758b5c1a4359219f040bda02ee554ef42375b0079ebb6bc246
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/tmux-3.8-android-35-arm64-v8a.release.tar.xz
+bin-sha: d9f847f179cae2101c788ff0fb22501544d084addc6090fc34c1cae369b15a4a

@@ -1,5 +1,5 @@
 summary: wordexp(3) implementation
 webpage: https://pubs.opengroup.org/onlinepubs/9699919799/functions/wordexp.html
-version: 2026.11.16
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libwordexp-2026.11.16-android-35-arm64-v8a.release.tar.xz
-bin-sha: cc6c4cd5206335aa365d3e87ea2b6a3e437e92420d8af5ddf0a630e9fa312ff8
+version: 2026.11.23
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/libwordexp-2026.11.23-android-35-arm64-v8a.release.tar.xz
+bin-sha: 90bcfd42a733c654e4a950f773ad795868c93c4cbbc7bb62a8273f89f0678528

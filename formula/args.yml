@@ -1,5 +1,5 @@
 summary: A simple header-only C++ argument parser library
 webpage: https://github.com/Taywee/args
 version: 6.6.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/args-6.6.1-android-aarch64.release.tar.xz
-bin-sha: 4a9dc81c2f0a04d92e483ced868e5bb2fbce45701aa5348ff6ca445845b10574
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/args-6.6.1-android-aarch64.release.tar.xz
+bin-sha: 65ab24cd45984c43c22f769286466b2a5633b28ba0088e5964ab779df51bfaaa

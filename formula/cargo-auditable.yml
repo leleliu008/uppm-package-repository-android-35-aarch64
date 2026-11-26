@@ -1,5 +1,5 @@
 summary: Make production Rust binaries auditable
 webpage: https://github.com/rust-secure-code/cargo-auditable
 version: 0.7.7
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/cargo-auditable-0.7.7-android-35-arm64-v8a.release.tar.xz
-bin-sha: 0dd13ead8790de62ae7fdd6f122adc2fcedc466cbc9d132c3d54d2444ef5cde8
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/cargo-auditable-0.7.7-android-35-arm64-v8a.release.tar.xz
+bin-sha: 2755028817691ae5498496fac7cc07be06709d892d3046e9b154bd1e5e812dc6

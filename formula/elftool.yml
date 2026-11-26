@@ -1,5 +1,5 @@
 summary: A command-line tool to manipulate ELF files
 webpage: https://github.com/leleliu008/elftool
-version: 2026.11.16
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/elftool-2026.11.16-android-35-arm64-v8a.release.tar.xz
-bin-sha: 5a52a809131856bbadc1b5e4c50981239ef369273e2300efc4e0c7d9dd781076
+version: 2026.11.23
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/elftool-2026.11.23-android-35-arm64-v8a.release.tar.xz
+bin-sha: 2cffc7df057d8ae31312e4f5fe138f577ba3d4bff335d2621cc34b3102ced38d

@@ -1,5 +1,5 @@
 summary: SPIRV Headers
 webpage: https://github.com/KhronosGroup/SPIRV-Headers
 version: 1.4.363.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/spirv-headers-1.4.363.0-android-aarch64.release.tar.xz
-bin-sha: 062da5f334d9b7b58af59a96c0e71f2e94f972abd5416d16d4dbff23ebe1c7db
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/spirv-headers-1.4.363.0-android-aarch64.release.tar.xz
+bin-sha: 95d0e0f426320692c24df459173abf5216403d50bcc69b802cccad08426fbdf6

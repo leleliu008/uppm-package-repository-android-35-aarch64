@@ -1,5 +1,5 @@
 summary: C library for downloading files from servers
 webpage: https://gitlab.com/gnuwget/wget2
 version: 2.3.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libwget-2.3.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: 88a69a948d115c6efbb16618161ac1c0970dd3c6d50f120d26b6b25e7937e5f1
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/libwget-2.3.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: d3fbf3bbd811eb4cec94273c0271db4d8fd283b57933b5ff00e03cff0e2715ca

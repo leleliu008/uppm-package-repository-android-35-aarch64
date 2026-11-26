@@ -1,5 +1,5 @@
 summary: BoringSSL CLI
 webpage: https://boringssl.googlesource.com/boringssl/
 version: 0.20261105.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/bssl-0.20261105.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: 12c60ab2f45392f48fcef7c852125609fc16dd51802638ac1944967573cef06b
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/bssl-0.20261105.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 426e2bdab15f6bf725f23d8d595efcfaa327ce2ff94646799dcadea616d613c1

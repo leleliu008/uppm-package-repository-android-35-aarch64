@@ -1,5 +1,5 @@
 summary: Project for generating C bindings from Rust code
 webpage: https://github.com/mozilla/cbindgen
 version: 0.29.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/cbindgen-0.29.4-android-35-arm64-v8a.release.tar.xz
-bin-sha: 34741bc9f04e78b11a6ad306c46527cebe8ba158b352d099879978af0569e7e6
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/cbindgen-0.29.4-android-35-arm64-v8a.release.tar.xz
+bin-sha: b00c79bb3c9d9dd24fda41d125c94251b6788a24999e220725d2d4effcf0e9b2

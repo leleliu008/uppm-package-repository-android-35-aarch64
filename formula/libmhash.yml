@@ -1,5 +1,5 @@
 summary: A large number of hash algorithms
 webpage: https://mhash.sourceforge.net/
 version: 0.9.9.9
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libmhash-0.9.9.9-android-35-arm64-v8a.release.tar.xz
-bin-sha: 42de2701aed2c01944fd359633ea1099a114aa5e4ba6f8d1b66d61a1b6c0d35b
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/libmhash-0.9.9.9-android-35-arm64-v8a.release.tar.xz
+bin-sha: e3e095e2c24b9ba78230bc311b8ec16b17fc8229a03e7c47cd7d866878a575b1

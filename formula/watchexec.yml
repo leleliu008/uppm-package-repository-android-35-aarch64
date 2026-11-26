@@ -1,5 +1,5 @@
 summary: Execute commands when watched files change
 webpage: https://github.com/watchexec/watchexec
 version: 2.8.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/watchexec-2.8.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: a4cb08408dc0514f9d410f186840557fbefce17c260891a07be89ad61abfcb46
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/watchexec-2.8.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 7d367401d1c6a5adb56eb602f4fd076fe6145dbc8b332d5476bb6ba9904598d9

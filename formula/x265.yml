@@ -1,5 +1,5 @@
 summary: An open-source H.265/HEVC encoder
 webpage: http://x265.org/
 version: 4.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/x265-4.3-android-35-arm64-v8a.release.tar.xz
-bin-sha: 7a0be8861cb780bcbec2f8eac50b49a997b77150c90e0cfe40c983747f5ca2a3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/x265-4.3-android-35-arm64-v8a.release.tar.xz
+bin-sha: 2829166806618c03d32ef2c8dbcb28bbf13212fbcfc7276b5d20c35128b7cc88

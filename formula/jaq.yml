@@ -1,5 +1,5 @@
 summary: JQ clone focussed on correctness, speed, and simplicity
 webpage: https://github.com/01mf02/jaq
-version: 3.1.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/jaq-3.1.2-android-35-arm64-v8a.release.tar.xz
-bin-sha: 32c6d97cd85b15505a0e757c775108f6c8b18dad4437d4c6f49bdfa46e545618
+version: 3.2.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/jaq-3.2.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 4cadc64f6e2e818e7a2745a1548d0478254ab0c29258b629d6e69a4da1b6c19c

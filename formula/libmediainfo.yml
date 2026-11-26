@@ -1,5 +1,5 @@
 summary: Unified display of technical and tag data for audio/video
 webpage: https://mediaarea.net/
 version: 26.10
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libmediainfo-26.10-android-35-arm64-v8a.release.tar.xz
-bin-sha: 2ec3c8b329d5d869ff6e45e81fef44e5be42755674663383e51b508ad8050b2a
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/libmediainfo-26.10-android-35-arm64-v8a.release.tar.xz
+bin-sha: 1dbbe378a029214cc20c56799cfd2d6963533d7138e1269b925b2e7ef1352d8c

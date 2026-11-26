@@ -1,5 +1,5 @@
 summary: Library handling the communication with Apple's Tatsu Signing Server (TSS)
 webpage: https://libimobiledevice.org/
 version: 1.1.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libtatsu-1.1.1-android-35-arm64-v8a.release.tar.xz
-bin-sha: d21858eb973426dec3aed1077d7f4cdf5f7dd7fe684ad5acd3335a0593fd2851
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/libtatsu-1.1.1-android-35-arm64-v8a.release.tar.xz
+bin-sha: ab7b3a0937e356784377b3a19f389436676aa6227ae8c70f8bda205f76576fcf

@@ -1,5 +1,5 @@
 summary: provide some missing posix threading functions for NDK
 webpage: https://github.com/tux-mind/libbthread
 version: 0.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libbthread-0.2-android-35-arm64-v8a.release.tar.xz
-bin-sha: 9771098898fc6838e865efd5f18022c4728cc946f362a5cce66c018786910cc7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/libbthread-0.2-android-35-arm64-v8a.release.tar.xz
+bin-sha: 77a8e1351ec1c7064619f0d2cd7ce9deca3d60e527424eaf548aebb540e8a8e4

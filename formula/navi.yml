@@ -1,5 +1,5 @@
 summary: Interactive cheatsheet tool for the command-line
 webpage: https://github.com/denisidoro/navi
 version: 2.24.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/navi-2.24.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: 7441841e043e005687e8285a4c526a7d5b4781800cda53fc5fb166f2c46b1aa8
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/navi-2.24.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: f7bb9d3b46256f54d91ceaa5b8c7bf582beea9d4ca5843bf4ce297c092a3502e

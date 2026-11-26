@@ -1,5 +1,5 @@
 summary: Secure Reliable Transport
 webpage: https://www.srtalliance.org/
 version: 1.5.7
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libsrt-1.5.7-android-35-arm64-v8a.release.tar.xz
-bin-sha: 07b6e073b1177c1a45f121b0306c0744e6ec8035a44a5d18587ffa619a4f5c69
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/libsrt-1.5.7-android-35-arm64-v8a.release.tar.xz
+bin-sha: 076db5fc496b203c3eefc153a6283b727cb2ad29a61b36ca5ba7a59905e99daa

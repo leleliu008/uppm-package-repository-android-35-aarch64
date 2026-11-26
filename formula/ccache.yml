@@ -1,5 +1,5 @@
 summary: A compiler wrapper to speed up recompilation by caching previous compilations and detecting when the same compilation is being done again
 webpage: https://ccache.dev
-version: 4.14.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/ccache-4.14.2-android-35-arm64-v8a.release.tar.xz
-bin-sha: a6860060f52861647bf8ad186e4799a9ab89740d0f634e688acd647b5d0b76f9
+version: 4.14.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/ccache-4.14.3-android-35-arm64-v8a.release.tar.xz
+bin-sha: bffc814b5d4f866258c1546b4f028da3c93c3c111a0c34e876f63f69eabe0a42

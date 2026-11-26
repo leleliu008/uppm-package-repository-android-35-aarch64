@@ -1,5 +1,5 @@
 summary: A fork of OpenSSL that is designed to meet the needs of Google
 webpage: https://boringssl.googlesource.com/boringssl/
 version: 0.20261105.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/boringssl-0.20261105.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: f27bf6a396ae0a01566f31bf74b3064efe14c5349ea5ac5d1f37d3636aa51412
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/boringssl-0.20261105.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 2dbe11c6dfaaa55a529ba4c86e9b748a84d923bfc4d500edfc304c43264509ad

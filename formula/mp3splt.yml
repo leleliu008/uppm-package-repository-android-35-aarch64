@@ -1,5 +1,5 @@
 summary: A command-line tool to split MP3 and Ogg Vorbis files
 webpage: https://mp3splt.sourceforge.net/mp3splt_page/home.php
 version: 2.6.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/mp3splt-2.6.2-android-35-arm64-v8a.release.tar.xz
-bin-sha: 52404dc1a3355894293cfd84c028dc86f620f865e570ec069351faab7494aa82
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/mp3splt-2.6.2-android-35-arm64-v8a.release.tar.xz
+bin-sha: c06a818e0f274899d4c6b02fd52675f72491e07a9e08e2a3af3438a199fbe23a

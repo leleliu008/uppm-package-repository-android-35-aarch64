@@ -1,5 +1,5 @@
 summary: Universal Command-Line Interface for Alibaba Cloud
 webpage: https://github.com/aliyun/aliyun-cli
-version: 3.5.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/aliyun-cli-3.5.3-android-35-arm64-v8a.release.tar.xz
-bin-sha: 1cecb17cbc7252fe6963beed649eda9da1b85220bc80dee156ce0fb6533f34f7
+version: 3.5.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/aliyun-cli-3.5.4-android-35-arm64-v8a.release.tar.xz
+bin-sha: fb31a2db7a224ad3a164c9de718bfc2b8ceb9bd41cf64fc48351487a91d4eaea

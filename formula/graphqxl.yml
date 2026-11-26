@@ -1,5 +1,5 @@
 summary: Language for creating big and scalable GraphQL server-side schemas
 webpage: https://gabotechs.github.io/graphqxl
 version: 0.40.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/graphqxl-0.40.2-android-35-arm64-v8a.release.tar.xz
-bin-sha: 1048f328ed4972ea904508bcc6cc8429ac76b5f5ddece587f5485fb6a15240e5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/graphqxl-0.40.2-android-35-arm64-v8a.release.tar.xz
+bin-sha: 334ffcb269cd5f8742b230b31845b9390549dc5892a9614a9590f198067f2fdd

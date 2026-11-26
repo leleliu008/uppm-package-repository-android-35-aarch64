@@ -1,5 +1,5 @@
 summary: An easy-to-use, high-performance audio library for Android
 webpage: https://github.com/google/oboe
 version: 1.11.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/oboe-1.11.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: 1d74e3220ff059dcf697f0a98214817ba46051e9607dcc20ff198ac591f74245
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/oboe-1.11.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: f53112b58a412c2cc2c3290f9f7151983cb8cb6b866f4eb77af321d3be93ad66

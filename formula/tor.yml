@@ -1,5 +1,5 @@
 summary: Anonymizing overlay network for TCP
 webpage: https://www.torproject.org/
 version: 0.4.9.17
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/tor-0.4.9.17-android-35-arm64-v8a.release.tar.xz
-bin-sha: dd01a7705139bf3bf67b8090d8ba53e153ab24ac5f95aa6c29a882318b938d3d
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/tor-0.4.9.17-android-35-arm64-v8a.release.tar.xz
+bin-sha: 01c90270a3d609355326b90b767b9b3e8447ff42d9eb79d6fe6191f488c7df33

@@ -1,5 +1,5 @@
 summary: Library for handling OpenGL function pointer management
 webpage: https://gitlab.gnome.org/GNOME/libepoxy
 version: 1.5.10
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libepoxy-1.5.10-android-35-arm64-v8a.release.tar.xz
-bin-sha: 76e0dee9376b519f9b0902765391b6a7f0613efe1b0762cfaddbc9885003fe80
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/libepoxy-1.5.10-android-35-arm64-v8a.release.tar.xz
+bin-sha: 520df1f7a3a60192db3073780076ec04fd0d53d8e915346a547e4680440a1ee4

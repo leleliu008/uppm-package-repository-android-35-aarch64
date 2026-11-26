@@ -1,5 +1,5 @@
 summary: HTTP and WebDAV client library with a C interface
 webpage: https://notroj.github.io/neon/
 version: 0.37.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libneon-0.37.1-android-35-arm64-v8a.release.tar.xz
-bin-sha: 816905a42c0ea7e5fad24ef926554aa7bcb6b14f0600a68e9740e100006972b7
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/libneon-0.37.1-android-35-arm64-v8a.release.tar.xz
+bin-sha: 68ce6e02098fba502abee22a84d51a0dffcf57a592d53dec26ded8b2bc0efaa6

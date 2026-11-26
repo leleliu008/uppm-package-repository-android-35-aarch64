@@ -1,5 +1,5 @@
 summary: A tiny text editor written in Rust
 webpage: https://github.com/ilai-deutel/kibi
 version: 0.3.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/kibi-0.3.3-android-35-arm64-v8a.release.tar.xz
-bin-sha: 29cec90aa98a16cda3e75b91cf83d5354533b253ec0e3fb4ccf6b14c15d60bdb
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/kibi-0.3.3-android-35-arm64-v8a.release.tar.xz
+bin-sha: feaef305a4d2a6d0a49df256f8a75e7b387d1a946b14c6ec4b6f3d851b4b8768

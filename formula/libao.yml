@@ -1,5 +1,5 @@
 summary: A cross-platform audio library
 webpage: https://www.xiph.org/ao
 version: 1.2.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libao-1.2.2-android-35-arm64-v8a.release.tar.xz
-bin-sha: fd40f37a798f28440258a4d4f71b4b13f2f9258d9f9d138262a32ad75025a6f0
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/libao-1.2.2-android-35-arm64-v8a.release.tar.xz
+bin-sha: e737ef784b3e859cf111fae1e3d14f410f6134be9241923fd93faa06cef882db

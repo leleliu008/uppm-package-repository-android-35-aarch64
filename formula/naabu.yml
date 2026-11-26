@@ -1,5 +1,5 @@
 summary: Fast port scanner
 webpage: https://github.com/projectdiscovery/naabu
 version: 2.7.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/naabu-2.7.0-android-35-arm64-v8a.release.tar.xz
-bin-sha: ed3e02292a89c2dfd7a85fd78b33ba9dd43454e0440404b2ba0bf67fde64dd58
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/naabu-2.7.0-android-35-arm64-v8a.release.tar.xz
+bin-sha: 2738198371b79a3fa5e3ade7593e083fa2bdae6b2f4d672b030466a781d29416

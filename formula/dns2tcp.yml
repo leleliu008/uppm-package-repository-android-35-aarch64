@@ -1,5 +1,5 @@
 summary: TCP over DNS tunnel
 webpage: https://packages.debian.org/sid/dns2tcp
 version: 0.5.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/dns2tcp-0.5.2-android-35-arm64-v8a.release.tar.xz
-bin-sha: bbcbeb1740bd0a3c5a3572f62944e8783da64d3d95a982a40ecbb0903140419e
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/dns2tcp-0.5.2-android-35-arm64-v8a.release.tar.xz
+bin-sha: 3e29d097cc65442316ae6b801320362388b58abb8cd9124f4d44f462286fb4d9

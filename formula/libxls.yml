@@ -1,5 +1,5 @@
 summary: Read binary Excel files from C/C++
 webpage: https://github.com/libxls/libxls
 version: 1.6.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libxls-1.6.4-android-35-arm64-v8a.release.tar.xz
-bin-sha: 78fdc78bb674064cbbf146dbc36a451a4eba361a01be7b04e693f81aeec32410
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/libxls-1.6.4-android-35-arm64-v8a.release.tar.xz
+bin-sha: 6eb2b2e49e6120812b41688accf0ebeceab91999d04f1869b8de8a7fe814d8b4

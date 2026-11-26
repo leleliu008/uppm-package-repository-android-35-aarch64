@@ -1,5 +1,5 @@
 summary: A collection of over 500 reusable autoconf macros
 webpage: https://savannah.gnu.org/projects/autoconf-archive/
 version: 2024.10.16
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/autoconf-archive-2024.10.16-android-aarch64.release.tar.xz
-bin-sha: 936a9247ddab9a757cafc288d2a8380b884b748eabde1cfd7b57dd2f3b18cb9b
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/autoconf-archive-2024.10.16-android-aarch64.release.tar.xz
+bin-sha: 0e94c5f4e187fa0abf7bafca3fc3d122272cc9e65d70299b617497455f7767fd

@@ -1,5 +1,5 @@
 summary: simple jpeg encoder
 webpage: https://github.com/webmproject/sjpeg
-version: 2026.11.16
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/sjpeg-2026.11.16-android-35-arm64-v8a.release.tar.xz
-bin-sha: 30bffef966c0878f29d277ff89f973792f17cc54dc26ba0b2903c0901c6070c6
+version: 2026.11.24
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/sjpeg-2026.11.24-android-35-arm64-v8a.release.tar.xz
+bin-sha: 442face1197e126603f76ded0b5b658f628e8f705d4bfd9c796f8cc16bf0f0b7

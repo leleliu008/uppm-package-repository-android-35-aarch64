@@ -1,5 +1,5 @@
 summary: PNG encoder and decoder in C and C++
 webpage: https://github.com/lvandeve/lodepng
-version: 2026.11.16
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/lodepng-2026.11.16-android-35-arm64-v8a.release.tar.xz
-bin-sha: f7ebe2191dfe1048caec544eecbbafe7004adb8916e5350f706cfe0ac806a690
+version: 2026.11.25
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/lodepng-2026.11.25-android-35-arm64-v8a.release.tar.xz
+bin-sha: 9187a375677c0a00aa16c38edb68b1965d2eb2aaf1012f674befb1701b24d842

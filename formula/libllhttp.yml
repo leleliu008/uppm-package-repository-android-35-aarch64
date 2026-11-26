@@ -1,5 +1,5 @@
 summary: http_parser replacement
 webpage: https://llhttp.org/
 version: 9.4.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libllhttp-9.4.4-android-35-arm64-v8a.release.tar.xz
-bin-sha: 048ec151bab8b458c2f2d18e43d7202e85573562ff780430f3773256f71c320e
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/libllhttp-9.4.4-android-35-arm64-v8a.release.tar.xz
+bin-sha: e3f81d045c49114e07bafde290a66e5dfd8de3d7ec6ce24270af6f4aed873f57

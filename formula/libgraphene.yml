@@ -1,5 +1,5 @@
 summary: Thin layer of graphic data types
 webpage: https://ebassi.github.io/graphene/
 version: 1.10.8
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libgraphene-1.10.8-android-35-arm64-v8a.release.tar.xz
-bin-sha: a1067417d0e41bd8faa70aa6571606a8004143300f0b50702ec560e7b68dfa0a
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/libgraphene-1.10.8-android-35-arm64-v8a.release.tar.xz
+bin-sha: befe1fd44c1613ed62a7981743c986b61325848c6f57c30a8114c268180ba5a7

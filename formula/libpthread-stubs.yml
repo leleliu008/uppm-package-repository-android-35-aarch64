@@ -1,5 +1,5 @@
 summary: X.Org pthread-stubs.pc
 webpage: https://xorg.freedesktop.org/
 version: 0.5
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libpthread-stubs-0.5-android-aarch64.release.tar.xz
-bin-sha: a98c59ea36556c243ad720d443d02fac6484e86b8e88d46a43a1270d1bb4a6b8
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/libpthread-stubs-0.5-android-aarch64.release.tar.xz
+bin-sha: 49f73a5afb9269f87822951d5e5adfdbf03969ec69691cfe46825a3cfe6d06ff

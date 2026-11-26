@@ -1,5 +1,5 @@
 summary: Audio encoder which generates ATSC A/52 compressed audio streams
 webpage: https://aften.sourceforge.net/
 version: 0.0.8
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libaften-0.0.8-android-35-arm64-v8a.release.tar.xz
-bin-sha: 84956b74261788c882ad892221ca450d720bbf01ac16da7b57a64c3903e81132
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/libaften-0.0.8-android-35-arm64-v8a.release.tar.xz
+bin-sha: 29d3c1020a53789389bce1936691039e9d993f0c468de7897c0f29a7ac3a1d13

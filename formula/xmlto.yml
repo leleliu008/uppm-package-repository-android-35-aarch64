@@ -1,5 +1,5 @@
 summary: A command-line tool for converting XML files to various formats
 webpage: https://codeberg.org/xmlto/xmlto
 version: 0.0.29
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/xmlto-0.0.29-android-35-arm64-v8a.release.tar.xz
-bin-sha: 7aff0816a8d470ca7346fe49f4f8ac016c217d5e7ebf9bff4e6b344f1ca89bb5
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/xmlto-0.0.29-android-35-arm64-v8a.release.tar.xz
+bin-sha: a0b18837e06f77c963a40e0d0be473b8d68407cbac371db1f542a351e4b79dbc

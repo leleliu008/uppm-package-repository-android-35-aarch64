@@ -1,5 +1,5 @@
 summary: Multi-platform, multi-architecture disassembly framework
 webpage: https://www.capstone-engine.org/
 version: 5.0.9
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libcapstone-5.0.9-android-35-arm64-v8a.release.tar.xz
-bin-sha: 9068b759db888e6bc83dc3d456009d6916aa4850f33b73a1f0f8ceae78b86446
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/libcapstone-5.0.9-android-35-arm64-v8a.release.tar.xz
+bin-sha: 16450d1d4f5880147738bcccf60b85c1acda3fc6fb418a1b87a2c60bc801f7c7

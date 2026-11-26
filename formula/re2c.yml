@@ -1,5 +1,5 @@
 summary: A free and open-source lexer generator for C/C++, Go and Rust with a focus on generating fast code
 webpage: https://re2c.org/
 version: 4.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/re2c-4.6-android-35-arm64-v8a.release.tar.xz
-bin-sha: 9d138b50d2b8dac1397c95d0a438f5c91575b9105806e3f8f3ee0b68ecd2e02b
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/re2c-4.6-android-35-arm64-v8a.release.tar.xz
+bin-sha: d465d09356fd1ceed6c6620df798d721e94a8e824ba652638ae10a0103566878

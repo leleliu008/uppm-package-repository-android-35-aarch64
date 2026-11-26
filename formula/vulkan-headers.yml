@@ -1,5 +1,5 @@
 summary: Vulkan Header files and API registry
 webpage: https://github.com/KhronosGroup/Vulkan-Headers
 version: 1.4.363.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/vulkan-headers-1.4.363.0-android-aarch64.release.tar.xz
-bin-sha: 2409a60fb7aa5a3a50216fe08312a21121dcfecb6e5f2f2bb4dbd7fd6934d28f
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/vulkan-headers-1.4.363.0-android-aarch64.release.tar.xz
+bin-sha: cd95cb0d9e515fed05d664e3773c8184a328808ea2bc06298cca6c412bda33e2

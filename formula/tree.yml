@@ -1,5 +1,5 @@
 summary: Display directories as trees (with optional color/HTML output)
 webpage: https://oldmanprogrammer.net/source.php?dir=projects/tree
 version: 2.3.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/tree-2.3.2-android-35-arm64-v8a.release.tar.xz
-bin-sha: cd8c2fd6a2716c83ba48639891d48c6e27d138e5629c9ed2b81280c0ec88304d
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/tree-2.3.2-android-35-arm64-v8a.release.tar.xz
+bin-sha: 6174feb2a0b6260373f466dd2baea676f77dd819a0bc56583df5059ebe367bec

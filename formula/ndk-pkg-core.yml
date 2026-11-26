@@ -1,5 +1,5 @@
 summary: core utils for ndk-pkg
 webpage: https://github.com/leleliu008/ndk-pkg
-version: 2026.11.16
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/ndk-pkg-core-2026.11.16-android-35-arm64-v8a.release.tar.xz
-bin-sha: 372fa647e7d834e4944d6ed097dc2b1db2c85c7052be263c1aa39066b172e896
+version: 2026.11.23
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/ndk-pkg-core-2026.11.23-android-35-arm64-v8a.release.tar.xz
+bin-sha: 8710a04d14fbec03a26fd9938c20c03ad4897b9f461561dd41d1fc54a994c178

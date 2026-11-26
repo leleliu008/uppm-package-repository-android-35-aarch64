@@ -1,5 +1,5 @@
 summary: Asynchronous event library
 webpage: https://libevent.org/
 version: 2.1.13
-bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.16.1/libevent-2.1.13-android-35-arm64-v8a.release.tar.xz
-bin-sha: b3150aea14deb7901c31121f1d067e9ac3ca81779f2723958648d8d643bbffec
+bin-url: https://github.com/leleliu008/uppm-package-repository-android-35-aarch64/releases/download/2026.11.26.1/libevent-2.1.13-android-35-arm64-v8a.release.tar.xz
+bin-sha: 736255dde383d66560bc56f1b1f162d80d70e535e694ada3b95477581447106d
